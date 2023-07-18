@@ -1,0 +1,2543 @@
+2-hydroxyglutaric aciduria
+3-hydroxyacyl-CoA dehydrogenase deficiency
+3-methylglutaconic aciduria
+46 XY disorder of gonadal development
+ALG12-CDG
+ALG8-CDG
+ALG9-CDG
+ARX-related epileptic encephalopathy
+Abdominal pain
+Abdominal symptom
+Abnormal blood glucose concentration
+Abnormal cardiovascular system physiology
+Abnormal central motor function
+Abnormal circulating lipid concentration
+Abnormal erythrocyte morphology
+Abnormal eye movements
+Abnormal glucose homeostasis
+Abnormal inflammatory response
+Abnormal muscle physiology
+Abnormal muscle tone
+Abnormal nervous system physiology
+Abnormal renal physiology
+Abnormal skull morphology
+Abnormality of blood and blood-forming tissues
+Abnormality of body weight
+Abnormality of brain morphology
+Abnormality of cardiovascular system morphology
+Abnormality of connective tissue
+Abnormality of head or neck
+Abnormality of higher mental function
+Abnormality of limbs
+Abnormality of movement
+Abnormality of refraction
+Abnormality of skeletal morphology
+Abnormality of the abdominal organs
+Abnormality of the cardiovascular system
+Abnormality of the cerebral vasculature
+Abnormality of the digestive system
+Abnormality of the ear
+Abnormality of the eye
+Abnormality of the face
+Abnormality of the head
+Abnormality of the immune system
+Abnormality of the integument
+Abnormality of the kidney
+Abnormality of the liver
+Abnormality of the mouth
+Abnormality of the musculature
+Abnormality of the nervous system
+Abnormality of the respiratory system
+Abnormality of the skeletal system
+Abnormality of the skin
+Abnormality of the urinary system
+Abnormality of the urinary system physiology
+Abnormality of the vasculature
+Abnormality of the vertebral column
+Abnormality of urine homeostasis
+Abnormality of vitamin metabolism
+Achondrogenesis
+Acrocephalosyndactyly
+Acrofacial dysostosis
+Acromelic dysplasia
+Acromesomelic dysplasia
+Acute Leukemia
+Acute hepatic porphyria
+Acyl-CoA dehydrogenase deficiency
+Adenoid Cystic Breast Carcinoma
+Adenosquamous Carcinoma
+Adolescent-onset epilepsy syndrome
+Adrenogenital syndrome
+Adult neuronal ceroid lipofuscinosis
+Agammaglobulinemia
+Agents acting on the renin-angiotensin system use measurement
+Albright hereditary osteodystrophy
+Alopecia
+Alopecia totalis
+Alopecia universalis
+Alopecia-intellectual disability syndrome
+Alpha-methylacyl-CoA racemase deficiency
+Alzheimers disease
+Alzheimers disease biomarker measurement
+Amelogenesis imperfecta
+Aminoacylase 1 deficiency
+Aminoacylase deficiency
+Ampulla of Vater Carcinoma
+Anophthalmia - microphthalmia
+Anorectal malformation
+Aplastic anemia
+Arterial stenosis
+Arthrogryposis multiplex congenita
+Arthrogryposis syndrome
+Asperger syndrome
+Astigmatism
+Ataxia with dementia
+Atypical hemolytic-uremic syndrome
+Autoimmune lymphoproliferative syndrome
+Autoinflammatory syndrome with immune deficiency
+Autosomal agammaglobulinemia
+Autosomal anomaly
+Autosomal dominant Charcot-Marie-Tooth disease type 2
+Autosomal dominant cerebellar ataxia
+Autosomal dominant cerebellar ataxia type 1
+Autosomal dominant childhood-onset proximal spinal muscular atrophy
+Autosomal dominant disease with diffuse palmoplantar keratoderma as a major feature
+Autosomal dominant distal hereditary motor neuropathy
+Autosomal dominant distal myopathy
+Autosomal dominant hereditary axonal motor and sensory neuropathy
+Autosomal dominant hereditary demyelinating motor and sensory neuropathy
+Autosomal dominant intermediate Charcot-Marie-Tooth disease
+Autosomal dominant intermediate Charcot-Marie-Tooth disease type B
+Autosomal dominant isolated diffuse palmoplantar keratoderma
+Autosomal dominant macrothrombocytopenia
+Autosomal dominant non-syndromic intellectual disability
+Autosomal dominant non-syndromic sensorineural deafness type DFNA
+Autosomal dominant optic atrophy
+Autosomal dominant optic atrophy and cataract
+Autosomal dominant optic atrophy plus syndrome
+Autosomal dominant proximal spinal muscular atrophy
+Autosomal dominant secondary polycythemia
+Autosomal dominant severe congenital neutropenia
+Autosomal ichthyosis syndrome
+Autosomal ichthyosis syndrome with fatal disease course
+Autosomal ichthyosis syndrome with other associated signs
+Autosomal ichthyosis syndrome with prominent hair abnormalities
+Autosomal monosomy
+Autosomal recessive Charcot-Marie-Tooth disease with hoarseness
+Autosomal recessive axonal Charcot-Marie-Tooth disease type 2
+Autosomal recessive cerebellar ataxia
+Autosomal recessive cerebellar ataxia due to a DNA repair defect
+Autosomal recessive complex spastic paraplegia
+Autosomal recessive congenital cerebellar ataxia
+Autosomal recessive congenital ichthyosis
+Autosomal recessive cutis laxa type 2
+Autosomal recessive degenerative and progressive cerebellar ataxia
+Autosomal recessive distal hereditary motor neuropathy
+Autosomal recessive distal myopathy
+Autosomal recessive hereditary demyelinating motor and sensory neuropathy
+Autosomal recessive hyper-IgE syndrome
+Autosomal recessive infantile hypercalcemia
+Autosomal recessive limb-girdle muscular dystrophy
+Autosomal recessive malignant osteopetrosis
+Autosomal recessive mendelian susceptibility to mycobacterial diseases due to a complete deficiency
+Autosomal recessive mendelian susceptibility to mycobacterial diseases due to a partial deficiency
+Autosomal recessive non-syndromic intellectual disability
+Autosomal recessive non-syndromic sensorineural deafness type DFNB
+Autosomal recessive optic atrophy
+Autosomal recessive primary microcephaly
+Autosomal recessive sideroblastic anemia
+Autosomal recessive syndromic optic atrophy
+Autosomal thrombocytopenia with normal platelets
+Autosomal trisomy
+Avascular necrosis of genetic origin
+B cell deficiency
+B-cell acute lymphoblastic leukemia
+B-cell neoplasm
+B-cell non-Hodgkins lymphoma
+BMI-adjusted hip circumference
+BMI-adjusted waist circumference
+BMI-adjusted waist-hip ratio
+Back pain
+Bardet-Biedl syndrome
+Barretts esophagus
+Bartter syndrome
+Basal epidermolysis bullosa simplex
+Behavioral abnormality
+Benign familial infantile epilepsy
+Benign partial infantile seizures
+Bent bone dysplasia
+Bernard-Soulier syndrome
+Beta-thalassemia and related diseases
+Beta-thalassemia associated with another hemoglobin anomaly
+Bilateral polymicrogyria
+Blackfan-Diamond anemia
+Bleeding diathesis due to a collagen receptor defect
+Blindness
+Bone pain
+Brachydactyly
+Brain Stem Glioblastoma
+Brain-lung-thyroid syndrome
+Breast Carcinoma by Gene Expression Profile
+Bulbospinal muscular atrophy
+Burkitts lymphoma
+Buschke-Ollendorff syndrome
+C-reactive protein measurement
+CACH syndrome
+CNS demyelinating autoimmune disease
+COFS syndrome
+COL4A1 or COL4A2-related cerebral small vessel disease
+COL4A1 or COL4A2-related cerebral small vessel disease with hemorrhagic tendancy
+COVID-19
+Calcium channel blocker use measurement
+Campomelic dysplasia
+Canthal anomaly
+Carnitine palmitoyltransferase II deficiency
+Cataract associated with a metabolic disease
+Central Nervous System Neoplasm
+Centronuclear myopathy
+Cerebellar ataxia with peripheral neuropathy
+Cerebral disease with cataract
+Cerebral ischemia
+Cerebral malformation with epilepsy
+Cerebral organic aciduria
+Cerulean cataract
+Cervicitis
+Channelopathy with epilepsy
+Charcot-Marie-Tooth disease
+Charcot-Marie-Tooth disease type 1
+Charcot-Marie-Tooth disease type 4
+Charcot-Marie-Tooth disease type 4B1
+Chest pain
+Childhood-onset epilepsy syndrome
+Cholangitis
+Chondrodysplasia punctata
+Chromosomal anomaly
+Chronic Obstructive Asthma
+Chronic granulomatous disease
+Chronic mucocutaneous candidosis
+Chudley-McCullough syndrome
+Classic organic aciduria
+Cobblestone lissencephaly
+Cockayne syndrome
+Coenzyme Q10 deficiency
+Cognitive impairment
+Colobomatous microphthalmia
+Combined T and B cell immunodeficiency
+Combined dystonia
+Combined immunodeficiency due to ZAP70 deficiency
+Combined immunodeficiency with skin granulomas
+Combined pituitary hormone deficiencies  genetic forms
+Common variable immunodeficiency
+Complex chromosomal rearrangement
+Complex hereditary spastic paraplegia
+Cone rod dystrophy
+Congenital alacrima
+Congenital disorder of glycosylation
+Congenital disorder of glycosylation with cardiac malformation as a major feature
+Congenital disorder of glycosylation with deafness as a major feature
+Congenital disorder of glycosylation with developmental anomaly
+Congenital disorder of glycosylation with dilated cardiomyopathy
+Congenital disorder of glycosylation with epilepsy as a major feature
+Congenital disorder of glycosylation with hepatic involvement
+Congenital disorder of glycosylation with intestinal involvement
+Congenital disorder of glycosylation with neurological involvement
+Congenital disorder of glycosylation with skin involvement
+Congenital disorder of glycosylation-related bone disorder
+Congenital dyserythropoietic anemia
+Congenital dyserythropoietic anemia type I
+Congenital enteropathy involving intestinal mucosa development
+Congenital entropion
+Congenital fiber-type disproportion myopathy
+Congenital hydrocephalus
+Congenital hypogonadotropic hypogonadism
+Congenital hypothyroidism
+Congenital intestinal disease due to an enzymatic defect
+Congenital intestinal motility disorder
+Congenital isolated hyperinsulinism
+Congenital muscular alpha-dystroglycanopathy with brain and eye anomalies
+Congenital muscular dystrophy
+Congenital muscular dystrophy due to dystroglycanopathy
+Congenital muscular dystrophy with cerebellar involvement
+Congenital muscular dystrophy with intellectual disability
+Congenital myasthenic syndromes
+Congenital myopathy
+Congenital myopathy with cores
+Congenital neuronal ceroid lipofuscinosis
+Congenital secondary polycythemia
+Congenital vitreoretinal dysplasia
+Conjunctival Disorder
+Conjunctival lymphangiectasia
+Conjunctival tumor
+Conjunctival vascular anomaly
+Connective tissue disease with eye involvement
+Conotruncal heart malformations
+Constitutional anemia due to iron metabolism disorder
+Constitutional deficiency anemia
+Constitutional dyserythropoietic anemia
+Constitutional megaloblastic anemia due to vitamin B12 metabolism disorder
+Constitutional neutropenia
+Constitutional neutropenia with extra-haematopoietic manifestations
+Constitutional sideroblastic anemia
+Constitutional symptom
+Coralliform cataract
+Corneal dystrophy
+Corneal opacity
+Coronaviridae infectious disease
+Craniodiaphyseal dysplasia
+Craniofacial anomaly with cataract
+Craniometaphyseal dysplasia
+Craniosynostosis
+Crohns disease
+Cushing syndrome
+Cutis laxa
+Cystic Kidney Disease
+DNA methylation
+DNA repair defect other than combined T-cell and B-cell immunodeficiencies
+DNA repair deficiency
+DPAGT1-CDG
+DPM1-CDG
+DPM3-CDG
+Deafness-infertility syndrome
+Defect in conserved oligomeric Golgi complex
+Dementia
+Dense granule disease
+Dent disease
+Dent disease type 1
+Dental enamel hypoplasia
+Dentinogenesis imperfecta
+Developmental anomaly of metabolic origin
+Diazoxide-resistant diffuse hyperinsulinism
+Diazoxide-resistant focal hyperinsulinism
+Diazoxide-resistant hyperinsulinism
+Diazoxide-sensitive diffuse hyperinsulinism
+Diffuse palmoplantar keratoderma
+Digestive System Adenoma
+Digestive System Carcinoma
+Disease associated with non-acquired combined pituitary hormone deficiency
+Disease with diffuse palmoplantar keratoderma as a major feature
+Disorder of O-mannosylglycan synthesis
+Disorder of amino acid absorption and transport
+Disorder of amino acid and other organic acid metabolism
+Disorder of bilirubin metabolism and excretion
+Disorder of biogenic amine metabolism and transport
+Disorder of branched-chain amino acid metabolism
+Disorder of carbohydrate absorption and transport
+Disorder of carbohydrate metabolism
+Disorder of carnitine cycle and carnitine transport
+Disorder of cobalamin metabolism and transport
+Disorder of energy metabolism
+Disorder of fatty acid oxidation and ketone body metabolism
+Disorder of fucoglycosan synthesis
+Disorder of galactose metabolism
+Disorder of gamma-aminobutyric acid metabolism
+Disorder of glycerol metabolism
+Disorder of glycosphingolipid and glycosylphosphatidylinositol anchor glycosylation
+Disorder of iron metabolism and transport
+Disorder of lipid metabolism
+Disorder of lysosomal amino acid transport
+Disorder of lysosomal-related organelles
+Disorder of melanin metabolism
+Disorder of metabolite absorption and transport
+Disorder of methionine cycle and sulfur amino acid metabolism
+Disorder of mineral absorption and transport
+Disorder of mitochondrial fatty acid oxidation
+Disorder of multiple glycosylation
+Disorder of neurotransmitter metabolism and transport
+Disorder of ornithine or proline metabolism
+Disorder of peroxisomal alpha-  beta- and omega-oxidation
+Disorder of phenylalanin or tyrosine metabolism
+Disorder of phospholipids  sphingolipids and fatty acids biosynthesis
+Disorder of phospholipids  sphingolipids and fatty acids biosynthesis with central nervous system predominant involvement
+Disorder of phospholipids  sphingolipids and fatty acids biosynthesis with skeletal muscle predominant involvement
+Disorder of porphyrin and haem metabolism
+Disorder of proline metabolism
+Disorder of protein N-glycosylation
+Disorder of protein O-glycosylation
+Disorder of pterin metabolism
+Disorder of purine metabolism
+Disorder of purine or pyrimidine metabolism
+Disorder of pyrimidine metabolism
+Disorder of serine or glycine metabolism
+Disorder of the gamma-glutamyl cycle
+Disorder of thiamine metabolism and transport
+Disorders of vitamin D metabolism
+Distal arthrogryposis
+Distal hereditary motor neuropathy
+Distal hereditary motor neuropathy type 2
+Distal hereditary motor neuropathy type 7
+Distal myopathy
+Distal myopathy  Nonaka type
+Distal renal tubular acidosis
+Distal spinal muscular atrophy
+Diuretic use measurement
+Duodenal Adenocarcinoma
+Dyskeratosis congenita
+Dysostosis of genetic origin
+Dysostosis of genetic origin with limb anomaly as a major feature
+Dysostosis with limb and face anomalies as a major feature
+Dysostosis with predominant craniofacial involvement
+Dysostosis with predominant vertebral and costal involvement
+Dystonia
+Early infantile epileptic encephalopathy
+Early-onset ataxia with dementia
+Early-onset non-syndromic cataract
+Ectodermal dysplasia syndrome
+Ectodermal malformation syndrome associated with ocular features
+Ectopic pregnancy
+Eczema
+Ehlers-Danlos syndrome
+Emery-Dreifuss muscular dystrophy
+Encephaloclastic disorder
+Endometrial Clear Cell Adenocarcinoma
+Endometrial Endometrioid Adenocarcinoma
+Endometritis
+Epicanthal fold
+Epidermolysis bullosa simplex
+Epilepsy syndrome
+Epileptic encephalopathy
+Epstein-Barr virus-associated malignant lymphoproliferative disorder
+Epstein-Barr virus-associated mesenchymal tumor
+Epstein-Barr virus-related tumor
+Erythema
+Esophageal malformation
+Ewing sarcoma
+Excretory apparatus of the lacrimal system anomaly
+Eyebrow hypertrophy
+Eyelid border anomaly
+Eyelid malformation
+Eyelids malposition disorder
+FGFR3-related chondrodysplasia
+FRAXE intellectual disability
+Familial atrial fibrillation
+Familial cystic renal disease
+Familial dilated cardiomyopathy
+Familial flecked retinopathy
+Familial hemophagocytic lymphohistiocytosis
+Familial hyperinsulinism
+Familial idiopathic steroid-resistant nephrotic syndrome
+Familial intrahepatic cholestasis
+Familial isolated dilated cardiomyopathy
+Familial isolated hypoparathyroidism
+Familial isolated restrictive cardiomyopathy
+Familial long QT syndrome
+Familial ocular anterior segment mesenchymal dysgenesis
+Familial partial epilepsy
+Familial partial lipodystrophy
+Familial primary hyperparathyroidism
+Familial restrictive cardiomyopathy
+Familial thrombocytosis
+Fanconi anemia
+Fatal infantile cytochrome C oxidase deficiency
+Fatal multiple mitochondrial dysfunction syndrome
+Fatty acid oxidation and ketogenesis disorder with hypertrophic cardiomyopathy
+Feingold syndrome
+Female infertility due to fertilization defect
+Female infertility due to gonadal dysgenesis
+Fibroblastic Neoplasm
+Filamin-related bone disorder
+Flaviviridae infectious disease
+Focal palmoplantar keratoderma
+Fragile X syndrome
+Free sialic acid storage disease
+Frontonasal dysplasia
+Frontootopalatodigital syndrome
+Frontotemporal dementia
+Frontotemporal neurodegeneration with movement disorder
+Functional neutrophil defect
+GM1 gangliosidosis
+Galactosemia
+Gallbladder Adenocarcinoma
+Galloway-Mowat syndrome
+Gangliosidosis
+Gastric Adenoma
+Gastroduodenal malformation
+Gastrointestinal stromal tumor
+Gaucher disease
+Generalized peeling skin syndrome
+Genetic 46 XX disorder of sex development
+Genetic 46 XY disorder of sex development
+Genetic 46 XY disorder of sex development of endocrine origin
+Genetic biliary tract disease
+Genetic branchial arch or oral-acral syndrome
+Genetic cardiac anomaly
+Genetic cardiac rhythm disease
+Genetic central nervous system and retinal vascular disease
+Genetic central nervous system malformation
+Genetic cerebellar malformation
+Genetic cerebral malformation
+Genetic cerebrovascular dementia
+Genetic chronic primary adrenal insufficiency
+Genetic congenital limb malformation
+Genetic cranial malformation
+Genetic dementia
+Genetic dermis disorder
+Genetic dermis elastic tissue disorder
+Genetic developmental defect of the eye
+Genetic digestive tract malformation
+Genetic digestive tract tumor
+Genetic disorder of sex development
+Genetic disorder of sex development of gynecological interest
+Genetic endocrine tumor
+Genetic epidermal appendage anomaly
+Genetic epidermal disorder
+Genetic frontotemporal degeneration with dementia
+Genetic glomerular disease
+Genetic hair anomaly
+Genetic head and neck malformation
+Genetic hyperparathyroidism
+Genetic hyperpigmentation of the skin
+Genetic hypertension
+Genetic hypoparathyroidism
+Genetic hypopigmentation of the skin
+Genetic immune deficiency with skin involvement
+Genetic infertility
+Genetic interstitial lung disease
+Genetic intestinal disease
+Genetic intractable diarrhea of infancy
+Genetic keratinization disorder associated with ocular features
+Genetic lens and zonula anomaly
+Genetic lipodystrophy
+Genetic macular dystrophy
+Genetic malformation syndrome with short stature
+Genetic mixed dermis disorder
+Genetic motor neuron disease
+Genetic muscular channelopathy
+Genetic neuro-ophthalmological disease
+Genetic neurodegenerative disease
+Genetic neurodegenerative disease with dementia
+Genetic neuromuscular disease
+Genetic neuromuscular junction disease
+Genetic neurovascular malformation
+Genetic non-syndromic central nervous system malformation
+Genetic non-syndromic obesity
+Genetic obesity
+Genetic optic atrophy
+Genetic parenchymatous liver disease
+Genetic peripheral neuropathy
+Genetic photodermatosis
+Genetic pigmentation anomaly of the skin
+Genetic polycythemia
+Genetic polyendocrinopathy
+Genetic posterior fossa malformation
+Genetic progeroid syndrome
+Genetic renal or urinary tract malformation
+Genetic renal tubular disease
+Genetic renal tumor
+Genetic respiratory malformation
+Genetic respiratory or mediastinal malformation
+Genetic skeletal muscle disease
+Genetic skin tumor
+Genetic skin vascular disorder
+Genetic soft tissue tumor
+Genetic subcutaneous tissue disorder
+Genetic susceptibility to infections due to particular pathogens
+Genetic syndrome with a Dandy-Walker malformation as major feature
+Genetic syndrome with a central nervous system malformation as major feature
+Genetic syndrome with a cerebellar malformation as major feature
+Genetic syndrome with limb malformations as a major feature
+Genetic syndrome with limb reduction defects
+Genetic syndromic Pierre Robin syndrome
+Genetic syndromic esophageal malformation
+Genetic thrombotic microangiopathy
+Genetic tumor of hematopoietic and lymphoid tissues
+Genetic urogenital tract malformation
+Genetic vascular anomaly
+Genetic visceral malformation of the liver  biliary tract  pancreas or spleen
+Genetic vitreous-retinal disease
+Genodermatosis with ocular features
+Glaucoma associated with neural crest cell migration anomaly
+Global developmental delay
+Gluconeogenesis disorder
+Glucose transport disorder
+Glutathione synthetase deficiency
+Glycerol kinase deficiency
+Glycogen storage disease
+Glycogen storage disease due to glycogen branching enzyme deficiency
+Glycogen storage disease due to phosphorylase kinase deficiency
+Glycogen storage disease with hypertrophic cardiomyopathy
+Glycoproteinosis
+Gonadal dysgenesis of gynecological interest
+Gonosome anomaly
+Graves disease
+Griscelli disease
+Growth abnormality
+Growth delay due to insulin-like growth factor type 1 deficiency
+Growth hormone insensitivity syndrome
+Guillain-Barre syndrome
+HER2 Positive Breast Carcinoma
+HIV infection
+HIV-1 infection
+HMG CoA reductase inhibitor use measurement
+Headache
+Hematological disorder with renal involvement
+Hemochromatosis type 2
+Hemoglobinopathy
+Hemolytic anemia due to hexose monophosphate shunt and glutathione metabolism anomalies
+Hepatic veno-occlusive disease - immunodeficiency
+Hepatobiliary Neoplasm
+Hepatoblastoma
+Hereditary cerebral hemorrhage with amyloidosis
+Hereditary glaucoma
+Hereditary methemoglobinemia
+Hereditary motor and sensory neuropathy
+Hereditary palmoplantar keratoderma
+Hereditary persistence of fetal hemoglobin - beta-thalassemia
+Hereditary poikiloderma
+Hereditary sensory and autonomic neuropathy
+Hereditary spastic paraplegia
+Hereditary thrombocytopenia with normal platelets
+Hermansky-Pudlak syndrome
+Hernia
+Herpesviridae infectious disease
+Hodgkins lymphoma
+Holoprosencephaly
+Homocystinuria without methylmalonic aciduria
+Homozygous 2p21 microdeletion syndrome
+Homozygous familial hypercholesterolemia
+Huntington disease
+Huntington disease and related disorders
+Huntington disease-like syndrome
+Hyper-IgE syndrome
+Hyper-IgM syndrome with susceptibility to opportunistic infections
+Hyper-IgM syndrome without susceptibility to opportunistic infections
+Hypercalcemia
+Hypercholesterolemia
+Hyperlipoproteinemia type 1
+Hyperlipoproteinemia type 4
+Hyperphenylalaninemia
+Hyperthyroidism
+Hypertrichosis
+Hypoalphalipoproteinemia
+Hypocalcemic rickets
+Hypoglycemia
+Hypogonadotropic hypogonadism associated with other endocrinopathies
+Hypohidrotic ectodermal dysplasia
+Hypophosphatasia
+Hypopigmentation of the skin
+Hypotonia - cystinuria syndrome
+Hypotonia - cystinuria type 1
+Hypotrichosis simplex
+ICF syndrome
+IGA glomerulonephritis
+Ichthyosis associated with ocular features
+Ichthyosis follicularis - alopecia - photophobia
+Immune dysregulation disease with immunodeficiency
+Immunodeficiency
+Immunodeficiency due to a complement cascade protein anomaly
+Immunodeficiency due to a late component of complements deficiency
+Immunodeficiency due to an early component of complement deficiency
+Immunodeficiency predominantly affecting antibody production
+Immunodeficiency syndrome with autoimmunity
+Immunodeficiency syndrome with hypopigmentation
+Inborn errors of metabolism
+Inclusion myopathy
+Increased inflammatory response
+Infantile epilepsy syndrome
+Infantile hypophosphatasia
+Infantile neuronal ceroid lipofuscinosis
+Inflammatory abnormality of the skin
+Inherited acute myeloid leukemia
+Inherited cancer-predisposing syndrome
+Inherited epidermolysis bullosa
+Inherited giant platelet disorder
+Inherited ichthyosis
+Inherited ichthyosis syndromic form
+Inherited non-syndromic ichthyosis
+Intellectual disability
+Intellectual disability - hypotonia - spasticity - sleep disorder
+Intellectual disability-severe speech delay-mild dysmorphism syndrome
+Interauricular communication
+Intestinal Type Adenocarcinoma
+Intestinal malformation
+Invasive Breast Carcinoma
+Ischemic stroke
+Isolated CoQ-cytochrome C reductase deficiency
+Isolated agammaglobulinemia
+Isolated anophthalmia - microphthalmia
+Isolated congenital hypogonadotropic hypogonadism
+Isolated congenital microcephaly
+Isolated craniosynostosis
+Isolated diffuse palmoplantar keratoderma
+Isolated focal palmoplantar keratoderma
+Isolated glycerol kinase deficiency
+Isolated hair shaft abnormality
+Isolated oxidative phosphorylation complex disorder
+Jeune syndrome
+Joubert syndrome
+Joubert syndrome and related disorders
+Juvenile neuronal ceroid lipofuscinosis
+Kallmann syndrome
+Keratoconus
+Kinetic eyelid anomaly
+L1 syndrome
+LCAT deficiency
+Landau-Kleffner syndrome
+Langerhans Cell Histiocytosis
+Late infantile neuronal ceroid lipofuscinosis
+Late-onset ataxia with dementia
+Leber congenital amaurosis
+Left ventricular noncompaction
+Leigh syndrome
+Leishmaniasis
+Lens position anomaly
+Lens shape anomaly
+Lentivirus Infections
+Lethal chondrodysplasia
+Lethal congenital contracture syndrome
+Lethal congenital contracture syndrome type 3
+Leukocyte adhesion deficiency
+Leukodystrophy
+Limb-girdle muscular dystrophy
+Lipid storage disease
+Lipoic acid biosynthesis defect
+Lissencephaly
+Lymphedema
+Lymphoproliferative syndrome
+Lysosomal disease
+Lysosomal disease with restrictive cardiomyopathy
+Lysosomal storage disease with skeletal involvement
+MODY
+MPI-CDG
+MYH9-related disease
+Macrosomia - microphthalmia - cleft palate
+Major hypertriglyceridemia
+Major induction processes eye anomaly
+Malabsorption
+Male infertility due to gonadal dysgenesis
+Male infertility due to gonadal dysgenesis or sperm disorder
+Male infertility due to large-headed multiflagellar polyploid spermatozoa
+Male infertility due to obstructive azoospermia of genetic origin
+Male infertility due to sperm disorder
+Male infertility due to sperm motility disorder
+Male infertility with azoospermia or oligozoospermia due to single gene mutation
+Male infertility with spermatogenesis disorder
+Male infertility with spermatogenesis disorder due to single gene mutation
+Male infertility with teratozoospermia due to single gene mutation
+Malformation syndrome with connective tissue involvement
+Malformation syndrome with hamartosis
+Malignant Germ Cell Tumor
+Malignant Mesothelioma
+Malignant Mixed Neoplasm
+Malignant Pancreatic Neoplasm
+Malignant Pleural Neoplasm
+Malignant Urinary System Neoplasm
+Malignant epithelial tumor of ovary
+Malignant hyperthermia
+Malposition of external canthus
+Mandibulofacial dysostosis
+Mantle cell lymphoma
+Marfan and Marfan-related disorder
+Marfan syndrome
+Marie Unna hereditary hypotrichosis
+Meckel syndrome
+Medullar aplasia
+Megalencephaly - polymicrogyria - postaxial polydactyly - hydrocephalus
+Mendelian susceptibility to mycobacterial diseases
+Meningioma
+Mental deterioration
+Merkel cell skin cancer
+Mesomelic and rhizo-mesomelic dysplasia
+Metabolic disease associated with ocular features
+Metabolic disease with cataract
+Metabolic disease with corneal opacity
+Metabolic disease with dementia
+Metabolic disease with intestinal involvement
+Metabolic disease with macular cherry-red spot
+Metabolic disease with pigmentary retinitis
+Metabolic disease with skin involvement
+Metabolic myopathy
+Methylmalonic acidemia with homocystinuria
+Methylmalonic acidemia without homocystinuria
+Microalbuminuria
+Microcephalic primordial dwarfism
+Microcephaly
+Midline cerebral malformation
+Milroy disease
+Miscellaneous movement disorder due to genetic neurodegenerative disease
+Mitochondrial DNA depletion syndrome
+Mitochondrial DNA depletion syndrome  encephalomyopathic form
+Mitochondrial DNA depletion syndrome  hepatocerebral form
+Mitochondrial DNA maintenance syndrome
+Mitochondrial disease
+Mitochondrial disease with dilated cardiomyopathy
+Mitochondrial disease with eye involvement
+Mitochondrial disease with hypertrophic cardiomyopathy
+Mitochondrial disease with peripheral neuropathy
+Mitochondrial disorder due to a defect in assembly or maturation of the respiratory chain complexes
+Mitochondrial disorder due to a defect in mitochondrial protein synthesis
+Mitochondrial membrane transport disorder
+Mitochondrial myopathy
+Mitochondrial neurogastrointestinal encephalomyopathy
+Mitochondrial oxidative phosphorylation disorder
+Mitochondrial oxidative phosphorylation disorder due to a point mutation of mitochondrial DNA
+Mitochondrial oxidative phosphorylation disorder due to mitochondrial DNA anomalies
+Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies
+Mitochondrial oxidative phosphorylation disorder with no known mechanism
+Mitochondrial substrate carrier disorder
+Mixed Lobular and Ductal Breast Carcinoma
+Mixed Tumor of the Salivary Gland
+Monogenic disease with epilepsy
+Morphological central nervous system abnormality
+Motor delay
+Motor stereotypies
+Moyamoya syndrome
+Moyomoya angiopathy
+Mucopolysaccharidosis
+Multicentric osteolysis-nodulosis-arthropathy spectrum
+Multiminicore myopathy
+Multiple epiphyseal dysplasia
+Multiple epiphyseal dysplasia and pseudoachondroplasia
+Multiple metaphyseal dysplasia
+Multiple mitochondrial DNA deletion syndrome
+Muscle weakness
+Muscle-eye-brain disease
+Muscular dystrophy
+Muscular glycogenosis
+Muscular lipidosis
+Musculoskeletal disease with cataract
+Myasthenic syndrome with eye involvement
+Myocardial Ischemia
+Myofibrillar myopathy
+Myopathy with eye involvement
+Myopia
+Myotonic dystrophy
+Myotonic syndrome
+Nanophthalmia
+Nemaline myopathy
+Neonatal epilepsy syndrome
+Nephrogenic diabetes insipidus
+Nephronophthisis
+Nephropathy secondary to a storage or other metabolic disease
+Nervous system anomaly with eye involvement
+Neural tube defect
+Neuroblastic Tumor
+Neurodegeneration with brain iron accumulation
+Neurodegenerative disease with chorea
+Neurodevelopmental abnormality
+Neurodevelopmental disorder
+Neurogenic arthrogryposis multiplex congenita
+Neurological conditions associated with aminoacylase 1 deficiency
+Neurometabolic disease
+Neuromuscular disease with dilated cardiomyopathy
+Neuronal ceroid lipofuscinosis
+Nidovirales infectious disease
+Niemann-Pick disease
+Nodular neuronal heterotopia
+Non-Cutaneous Melanoma
+Non-Neoplastic Bile Duct Disorder
+Non-X-linked congenital disorder of glycosylation with intellectual disability as a major feature
+Non-acquired combined pituitary hormone deficiencies without extra-pituitary malformations
+Non-acquired combined pituitary hormone deficiency
+Non-acquired isolated growth hormone deficiency
+Non-acquired pituitary hormone deficiency
+Non-acquired premature ovarian failure
+Non-dystrophic myopathy
+Non-epidermolytic palmoplantar keratoderma
+Non-familial restrictive cardiomyopathy
+Non-immunoglobulin-mediated membranoproliferative glomerulonephritis
+Non-syndromic cerebral malformation due to abnormal neuronal migration
+Non-syndromic congenital cataract
+Non-syndromic developmental defect of the eye
+Non-syndromic esophageal malformation
+Non-syndromic gastroduodenal malformation
+Non-syndromic genetic deafness
+Non-syndromic intestinal malformation
+Non-syndromic limb malformation
+Non-syndromic male infertility due to sperm motility disorder
+Non-syndromic pontocerebellar hypoplasia
+Non-syndromic respiratory or mediastinal malformation
+Noonan syndrome
+Noonan syndrome and Noonan-related syndrome
+Normosmic congenital hypogonadotropic hypogonadism
+Nuclear cataract
+Obesity due to CEP19 deficiency
+Obesity due to congenital leptin resistance
+Obstructive lung disease
+Ocular Melanoma
+Oculocutaneous albinism
+Oculocutaneous or ocular albinism
+Oculomotor apraxia or related oculomotor disease
+Oculomotor palsy
+Okihiro syndrome
+Optic neuropathy
+Oral cleft
+Organic aciduria
+Orofacial clefting syndrome
+Orofaciodigital syndrome
+Oromandibular-limb anomalies syndrome
+Orthocoronavirinae infectious disease
+Orthomyxoviridae infectious disease
+Osteochondrosis of genetic origin
+Osteogenesis imperfecta
+Osteonecrosis of genetic origin
+Osteopetrosis
+Other genetic epidermal disease
+Other immunodeficiency syndrome due to defects in adaptive immunity
+Other immunodeficiency syndromes due to defects in innate immunity
+Other metabolic disease
+Otomandibular dysplasia
+Ovarian Endometrioid Adenocarcinoma
+Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation
+Overgrowth
+Overgrowth syndrome
+PGM-CDG
+PMM2-CDG
+Palpebral tumor
+Pancreatic Acinar Cell Carcinoma
+Paraparesis
+Parathyroid Gland Carcinoma
+Parkinsons disease
+Partial autosomal monosomy
+Partial congenital cataract
+Partial deletion of chromosome 11
+Partial deletion of chromosome 17
+Partial deletion of chromosome 2
+Partial deletion of the long arm of chromosome 1
+Partial deletion of the long arm of chromosome 15
+Partial deletion of the long arm of chromosome 2
+Partial deletion of the long arm of chromosome 22
+Partial deletion of the short arm of chromosome 2
+Partial monosomy of the short arm of chromosome 17
+Patellar dysostosis
+Patterned dystrophy of the retinal pigment epithelium
+Peeling skin syndrome
+Periventricular nodular heterotopia
+Permanent congenital hypothyroidism
+Peroxisomal disease
+Peroxisome biogenesis disorder-Zellweger syndrome spectrum
+Persistent combined dystonia
+Phenotypic abnormality
+Phenylketonuria
+Phosphoenolpyruvate carboxykinase deficiency
+Pierre Robin syndrome associated with bone disease
+Pigmentation disorder with eye involvement
+Pituitary Gland Adenoma
+Pituitary deficiency
+Platelet storage pool disease
+Pleural Epithelioid Mesothelioma
+Pleural Mesothelioma
+Polycystic Kidney Disease
+Polydactyly
+Polymalformative genetic syndrome with increased risk of developing cancer
+Polymicrogyria
+Porphyria
+Posterior corneal dystrophy
+Postlingual non-syndromic genetic deafness
+Prader-Willi syndrome
+Prelingual non-syndromic genetic deafness
+Primary bone dysplasia
+Primary bone dysplasia with decreased bone density
+Primary bone dysplasia with defective bone mineralization
+Primary bone dysplasia with disorganized development of skeletal components
+Primary bone dysplasia with increased bone density
+Primary bone dysplasia with micromelia
+Primary bone dysplasia with multiple joint dislocations
+Primary ciliary dyskinesia
+Primary glomerular disease
+Primary hemophagocytic lymphohistiocytosis
+Primary immunodeficiency
+Primary immunodeficiency due to a defect in adaptive immunity
+Primary immunodeficiency due to a defect in innate immunity
+Primary interstitial lung disease specific to childhood due to pulmonary surfactant protein anomalies
+Primary lipodystrophy
+Primary lymphedema
+Primary membranoproliferative glomerulonephritis
+Primary osteolysis
+Primary renal tubular acidosis
+Progressive muscular dystrophy
+Progressive myoclonic epilepsy
+Proximal spinal muscular atrophy
+Pseudohypoparathyroidism
+Ptosis
+Pyle disease
+Pyruvate dehydrogenase deficiency
+Pyruvate metabolism disorder
+Qualitative or quantitative defects of FKRP
+Qualitative or quantitative defects of alpha-actin
+Qualitative or quantitative defects of alpha-dystroglycan
+Qualitative or quantitative defects of beta-myosin heavy chain (MYH7)
+Qualitative or quantitative defects of collagen 6
+Qualitative or quantitative defects of dystrophin
+Qualitative or quantitative defects of fukutin
+Qualitative or quantitative defects of myofibrillar proteins
+Qualitative or quantitative defects of protein O-mannose beta1 2N-acetylglucosaminyltransferase
+Qualitative or quantitative defects of protein O-mannosyltransferase 1
+Qualitative or quantitative defects of protein O-mannosyltransferase 2
+Qualitative or quantitative defects of protein involved in O-glycosylation of alpha-dystroglycan
+Qualitative or quantitative defects of sarcoglycan
+Qualitative or quantitative defects of selenoprotein N1
+Qualitative or quantitative defects of titin
+Qualitative or quantitative defects of tropomyosin
+Qualitative or quantitative protein defects in neuromuscular diseases
+Rare bone disease related to a common gene or pathway defect
+Rare cataract
+Rare conjunctival disease
+Rare constitutional anemia
+Rare constitutional hemolytic anemia
+Rare constitutional hemolytic anemia due to a red cell membrane anomaly
+Rare constitutional hemolytic anemia due to an enzyme disorder
+Rare constitutional medullar aplasia
+Rare disease with autism
+Rare disease with dentinogenesis imperfecta
+Rare disease with glaucoma as a major feature
+Rare disease with thoracic aortic aneurysm and aortic dissection
+Rare disorder with female infertility due to a congenital hypogonadotropic hypogonadism
+Rare disorder with hypergonadotropic hypogonadism
+Rare disorder with hypogonadotropic hypogonadism
+Rare dyslipidemia
+Rare eye disease due to a differentiation anomaly
+Rare familial disorder with hypertrophic cardiomyopathy
+Rare female infertility due to a congenital hypogonadotropic hypogonadism
+Rare female infertility due to hypothalamic-pituitary-gonadal axis disorder of genetic origin
+Rare genetic adrenal disease
+Rare genetic bone development disorder
+Rare genetic bone disease
+Rare genetic cardiac disease
+Rare genetic coagulation disorder
+Rare genetic deafness
+Rare genetic developmental defect during embryogenesis
+Rare genetic diabetes mellitus
+Rare genetic disease with myoclonus as a major feature
+Rare genetic disorder with obstructive azoospermia
+Rare genetic dystonia
+Rare genetic endocrine disease
+Rare genetic epilepsy
+Rare genetic eye disease
+Rare genetic female infertility
+Rare genetic gastroenterological disease
+Rare genetic gynecological and obstetrical diseases
+Rare genetic hematologic disease
+Rare genetic hepatic disease
+Rare genetic hypothalamic or pituitary disease
+Rare genetic immune disease
+Rare genetic intellectual disability
+Rare genetic intellectual disability with developmental anomaly
+Rare genetic male infertility
+Rare genetic movement disorder
+Rare genetic myoclonus
+Rare genetic neurological disorder
+Rare genetic odontologic disease
+Rare genetic palpebral  lacrimal system and conjunctival disease
+Rare genetic parathyroid disease and phosphocalcic metabolism disorder
+Rare genetic parkinsonian disorder
+Rare genetic refraction anomaly
+Rare genetic renal disease
+Rare genetic respiratory disease
+Rare genetic skin disease
+Rare genetic systemic or rheumatologic disease
+Rare genetic thyroid disease
+Rare genetic tremor disorder
+Rare genetic tumor
+Rare genetic urogenital disease
+Rare genetic vascular disease
+Rare hemorrhagic disorder due to a constitutional coagulation factors defect
+Rare hemorrhagic disorder due to a constitutional platelet anomaly
+Rare hemorrhagic disorder due to a constitutional thrombocytopenia
+Rare hemorrhagic disorder due to a platelet receptor defect
+Rare hereditary ataxia
+Rare hereditary disease with avascular necrosis
+Rare hereditary disease with peripheral neuropathy
+Rare hereditary hemochromatosis
+Rare hereditary metabolic disease with peripheral neuropathy
+Rare hereditary neurologic disease with peripheral neuropathy
+Rare hyperlipidemia
+Rare hyperopia and astigmatism
+Rare hypolipidemia
+Rare hypothyroidism
+Rare insulin-resistance syndrome
+Rare intellectual disability without developmental anomaly
+Rare lacrimal system disease
+Rare male infertility due to hypothalamic-pituitary-gonadal axis disorder of genetic origin
+Rare male infertility due to testicular endocrine disorder
+Rare metabolic liver disease
+Rare non-syndromic cataract
+Rare odontal or periodontal disorder
+Rare otorhinolaryngological malformation
+Rare palpebral disease
+Rare parkinsonian syndrome due to genetic neurodegenerative disease
+Rare pervasive developmental disorder
+Rare strabismus and restriction syndrome
+Rare syndrome with cardiac malformations
+Rare syndromic dyslipidemia
+Rare thrombotic disorder due to a constitutional platelet anomaly
+Recurrent infection due to specific granule deficiency
+Red cell distribution width
+Reducing body myopathy
+Retinal dystrophy
+Retinitis pigmentosa
+Saldino-Mainzer syndrome
+Seckel syndrome
+Secondary dysgenetic glaucoma
+Secondary ectropion
+Secondary polycythemia
+Secretory apparatus of the lacrimal system anomaly
+Seizure
+Senior-Loken syndrome
+Sensory neuropathy
+Severe combined immunodeficiency
+Severe combined immunodeficiency due to CORO1A deficiency
+Severe congenital hypochromic anemia with ringed sideroblasts
+Severe congenital neutropenia
+Short rib dysplasia
+Short rib-polydactyly syndrome
+Short stature due to GHSR deficiency
+Sleep Disorder
+Slender bone dysplasia
+Smith-Magenis syndrome
+Soft Tissue Neoplasm
+Spastic paraparesis - deafness
+Spastic paraplegia
+Sphingolipidosis
+Spinal muscular atrophy associated with central nervous system anomaly
+Spinal muscular atrophy with respiratory distress type 1
+Spinocerebellar ataxia with oculomotor anomaly
+Spondylodysplastic dysplasia
+Spondyloepiphyseal dysplasia and spondyloepimetaphyseal dysplasia
+Spondylometaphyseal dysplasia
+Stargardt disease
+Sterol metabolism disorder
+Strabismus
+Sturge-Weber syndrome
+Subcortical band heterotopia
+Sulfation-related bone disorder
+Superficial corneal dystrophy
+Supranuclear oculomotor palsy
+Syndactyly
+Syndactyly type 2
+Syndrome associated with Pierre Robin syndrome
+Syndrome associated with dilated cardiomyopathy
+Syndrome associated with hypertrophic cardiomyopathy
+Syndrome or malformation associated with head and neck malformations
+Syndrome with 46 XY disorder of sex development
+Syndrome with a symptomatic strabismus
+Syndrome with brachydactyly
+Syndrome with disorder of sex development of gynecological interest
+Syndrome with hypoparathyroidism
+Syndrome with microcephaly as major feature
+Syndrome with synostosis or other joint formation defect
+Syndromic agammaglobulinemia
+Syndromic anorectal malformation
+Syndromic cataract
+Syndromic craniosynostosis
+Syndromic developmental defect of the eye
+Syndromic epicanthus
+Syndromic gastroduodenal malformation
+Syndromic genetic deafness
+Syndromic hair shaft abnormality
+Syndromic hyperopia
+Syndromic hypothyroidism
+Syndromic ichthyosis associated with ocular features
+Syndromic intestinal malformation
+Syndromic keratoconus
+Syndromic lymphedema
+Syndromic microphthalmia
+Syndromic myopia
+Syndromic neurometabolic disease with X-linked intellectual disability
+Syndromic neurometabolic disease with non-X-linked intellectual disability
+Syndromic obesity
+Syndromic oculocutaneous albinism
+Syndromic renal or urinary tract malformation
+Syndromic retinitis pigmentosa
+Syndromic urogenital tract malformation
+Systemic disease with cataract
+T+ B+ severe combined immunodeficiency
+T-B+ severe combined immunodeficiency
+T-B- severe combined immunodeficiency
+T-cell acute lymphoblastic leukemia
+T-cell and NK-cell neoplasm
+T-cell non-Hodgkin lymphoma
+TPM3-related myopathy
+TRPV4-related bone disorder
+Testicular Germ Cell Tumor
+Thalassemia
+Thiamine deficiency
+Thymic Carcinoma
+Thyroid Gland Undifferentiated (Anaplastic) Carcinoma
+Thyroid preparation use measurement
+Total congenital cataract
+Transitional Cell Carcinoma
+Tremor
+Trichomegaly - retina pigmentary degeneration - dwarfism
+Type 2 collagen-related bone disorder
+Unclassified primitive or secondary maculopathy
+Usher syndrome
+Uterine Carcinosarcoma
+Uveal Melanoma
+Ventricular septal defect
+Vertigo
+Visual loss
+Vitamin B12-responsive methylmalonic acidemia
+Vitreoretinal degeneration
+Vitreoretinopathy
+Von Willebrand disease
+Walker-Warburg syndrome
+Wiskott-Aldrich syndrome
+X-linked Charcot-Marie-Tooth disease
+X-linked agammaglobulinemia
+X-linked deafness
+X-linked disease
+X-linked ichthyosis syndrome
+X-linked immunodeficiency with magnesium defect  Epstein-Barr virus infection and neoplasia
+X-linked intellectual disability - epilepsy
+X-linked lymphoproliferative disease
+X-linked mendelian susceptibility to mycobacterial diseases
+X-linked non-syndromic intellectual disability
+X-linked recessive optic atrophy
+X-linked syndromic intellectual disability
+Xeroderma pigmentosum
+Xeroderma pigmentosum-Cockayne syndrome complex
+Zellweger syndrome
+Zonular cataract
+acinar cell carcinoma
+acquired metabolic disease
+acquired peripheral neuropathy
+actinopathy
+acute leukemia of ambiguous lineage
+acute lymphoblastic leukemia
+acute myeloid leukemia
+adenocarcinoma
+adenocarcinoma of gallbladder and extrahepatic biliary tract
+adenocarcinoma of liver and intrahepatic biliary tract
+adenoid cystic carcinoma
+adenoma
+adenosquamous lung carcinoma
+adipose tissue measurement
+adolescent idiopathic scoliosis
+adrenal carcinoma
+adrenal cortex carcinoma
+adrenal cortex disease
+adrenal cortex neoplasm
+adrenal gland cancer
+adrenal gland disease
+adrenal gland neoplasm
+adrenal medulla neoplasm
+adrenocortical adenoma
+age
+age at first facial hair
+age at first sexual intercourse measurement
+age at menarche
+age at menopause
+age at onset
+age-related macular degeneration
+aggressive B-cell non-Hodgkin lymphoma
+aging
+albinism
+alcohol consumption measurement
+alcohol dependence
+alcohol drinking
+alcohol-induced mental disorder
+alcohol-related disorders
+allergic respiratory disease
+allergic rhinitis
+allergy
+alopecia  isolated
+alveolar rhabdomyosarcoma
+amino acid measurement
+amino acid metabolism disease
+amino acid or protein metabolism disease with epilepsy
+ampulla of vater cancer
+ampulla of vater neoplasm
+amyloidosis
+amyotrophic lateral sclerosis
+anal neoplasm
+anaplastic astrocytoma
+anaplastic cancer
+anaplastic oligodendroglioma
+anemia  hypochromic microcytic with iron overload
+anemia (disease)
+anemia (phenotype)
+anemia due to enzyme disorder
+anemia due to erythrocyte enzyme disorder
+angina pectoris
+angioimmunoblastic T-cell lymphoma
+angiosarcoma
+ankylosing spondylitis
+anophthalmia-microphthalmia syndrome
+anterior horn disease
+anthropometric measurement
+antibody measurement
+anus cancer
+anus disease
+anxiety
+anxiety disorder
+aortic disease
+appendiceal neoplasm
+appendix cancer
+appendix carcinoma
+arterial disorder
+arterial occlusive disease
+arterial stiffness measurement
+arteriosclerosis
+arteriosclerosis disorder
+arthritis
+asthma
+astrocytoma
+astrocytoma (excluding glioblastoma)
+atherosclerosis
+atopic eczema
+atrial fibrillation
+attention deficit hyperactivity disorder
+auditory system disease
+autism
+autism spectrum disorder
+autoimmune cardiomyopathy
+autoimmune disease
+autoimmune disease biomarker
+autoimmune disease of cardiovascular system
+autoimmune disease of central nervous system
+autoimmune disease of endocrine system
+autoimmune disease of gastrointestinal tract
+autoimmune disease of musculoskeletal system
+autoimmune disease of the nervous system
+autoimmune disease of urogenital tract
+autoimmune disease with skin involvement
+autoimmune glomerulonephritis
+autoimmune thyroid disease
+autoinflammatory syndrome
+autoinflammatory syndrome with skin involvement
+autonomic nervous system disease
+autosomal dominant disease
+autosomal genetic disease
+autosomal recessive axonal hereditary motor and sensory neuropathy
+autosomal recessive disease
+autosomal recessive severe congenital neutropenia
+avascular necrosis
+axonal hereditary motor and sensory neuropathy
+azoospermia
+bacterial disease
+balding measurement
+basal cell carcinoma
+basal ganglia disease
+base metabolic rate measurement
+basophil count
+basophil percentage of leukocytes
+behavior
+behavioural disinhibition measurement
+benign blood vessel neoplasm
+benign connective and soft tissue neoplasm
+benign endocrine neoplasm
+benign epithelial neoplasm
+benign epithelial skin neoplasm
+benign muscle neoplasm
+benign neoplasm
+benign neoplasm of adrenal gland
+benign neoplasm of skin
+beverage consumption measurement
+bile duct adenocarcinoma
+bile duct cancer
+bile duct carcinoma
+bile duct disease
+bile duct neoplasm
+biliary tract cancer
+biliary tract disease
+biliary tract neoplasm
+bilineal acute myeloid leukemia
+bilirubin metabolism disease
+biological process
+bipolar disorder
+birth weight
+bitter beverage consumption measurement
+bladder carcinoma
+bladder disease
+bladder transitional cell carcinoma
+bladder tumor
+blindness (disorder)
+blood coagulation disease
+blood disease
+blood metabolite measurement
+blood platelet disease
+blood pressure
+blood protein measurement
+blood urea nitrogen measurement
+blood vessel neoplasm
+body composition measurement
+body fat distribution
+body fat percentage
+body height
+body mass index
+body ratio measurement
+body weight
+body weights and measures
+bone cancer
+bone density
+bone development disease
+bone disease
+bone fracture
+bone fracture related measurement
+bone inflammation disease
+bone marrow cancer
+bone marrow disease
+bone marrow neoplasm
+bone measurement
+bone neoplasm
+bone quantitative ultrasound measurement
+bone remodeling disease
+bone resorption disease
+bone sarcoma
+brachydactyly (disease)
+brain aneurysm
+brain cancer
+brain disease
+brain glioblastoma
+brain glioma
+brain inflammatory disease
+brain measurement
+brain neoplasm
+breast adenocarcinoma
+breast cancer
+breast carcinoma
+breast disease
+breast ductal adenocarcinoma
+breast neoplasm
+bronchial disease
+bronchoalveolar adenocarcinoma
+burn
+calcium metabolic disease
+cancer
+capillary hemangioma
+carbohydrate metabolism disease
+carbohydrate transport disease
+carcinoid tumor
+carcinoma
+carcinoma of duodenum
+carcinoma of esophagus
+carcinoma of gallbladder and extrahepatic biliary tract
+carcinoma of liver and intrahepatic biliary tract
+carcinoma of pharynx
+carcinosarcoma
+cardiac arrest
+cardiac arrhythmia
+cardiac rhythm disease
+cardiomyopathy
+cardiovascular cancer
+cardiovascular disease
+cardiovascular disease biomarker measurement
+cardiovascular measurement
+cardiovascular neoplasm
+cardiovascular organ benign neoplasm
+cartilage disease
+cataract
+cecal disease
+cecal neoplasm
+cecum adenocarcinoma
+cecum cancer
+cecum carcinoma
+celiac disease
+cell proliferation disorder
+central nervous system cancer
+central nervous system disease
+central nervous system infection
+central nervous system malformation
+central nervous system primitive neuroectodermal neoplasm
+cerebellar ataxia
+cerebellar degeneration
+cerebellar disease
+cerebellar neoplasm
+cerebral arterial disease
+cerebral lipidosis with dementia
+cerebral malformation
+cerebral malformation due to abnormal neuronal migration
+cerebral small vessel disease
+cerebrovascular disorder
+cervical cancer
+cervical carcinoma
+cervical squamous cell carcinoma
+cervix disease
+childhood electroclinical syndrome
+childhood onset asthma
+cholangiocarcinoma
+cholangitis
+cholestasis
+chromophobe renal cell carcinoma
+chromosomal anomaly with epilepsy as a major feature
+chronic kidney disease
+chronic leukemia
+chronic lung disease
+chronic lymphocytic leukemia
+chronic myelogenous leukemia
+chronic myelomonocytic leukemia
+chronic myeloproliferative disorder
+chronic obstructive pulmonary disease
+chronotype measurement
+cigarettes per day measurement
+ciliopathy
+cirrhosis of liver
+clear cell adenocarcinoma
+clear cell renal carcinoma
+coagulation factor measurement
+coagulation protein disease
+cocaine dependence
+cognition
+cognitive disorder
+cognitive function measurement
+colitis
+collagenopathy
+coloboma
+colon adenocarcinoma
+colon adenoma
+colon carcinoma
+colonic disease
+colonic neoplasm
+colorectal adenocarcinoma
+colorectal adenoma
+colorectal cancer
+colorectal carcinoma
+colorectal neoplasm
+combined oxidative phosphorylation deficiency
+common bile duct disease
+common bile duct neoplasm
+common wart
+complement deficiency
+complete blood cell count
+complex neurodevelopmental disorder
+congenital abnormality
+congenital anemia
+congenital anomaly of cardiovascular system
+congenital diarrhea
+congenital disorder of glycosylation type I
+congenital disorder of glycosylation type II
+congenital fiber-type disproportion
+congenital heart disease
+congenital heart malformation
+congenital hematological disorder
+congenital limb malformation
+congenital nervous system disorder
+congenital structural myopathy
+congestive heart failure
+conjunctival vascular disease
+connective and soft tissue neoplasm
+connective tissue cancer
+connective tissue disease
+connective tissue neoplasm
+contracture
+corneal disease
+corneal endothelial dystrophy
+coronary artery disease
+coronary heart disease
+corpus uteri neoplasm
+cranial malformation
+cranial nerve neuropathy
+cranial nerve palsy
+creatinine measurement
+cutaneous Leishmaniasis
+cutaneous melanoma
+cytokine measurement
+deficiency anemia
+degeneration of macula and posterior pole
+demyelinating disease
+demyelinating hereditary motor and sensory neuropathy
+depressive disorder
+depressive symptom measurement
+dermatitis
+dermis disease
+developmental defect during embryogenesis
+developmental disorder of mental health
+diabetes insipidus
+diabetes mellitus
+diabetes mellitus biomarker
+diabetic nephropathy
+diaphragmatic or abdominal wall malformation
+diarrheal disease
+diastolic blood pressure
+diet measurement
+differentiated thyroid carcinoma
+diffuse gastric adenocarcinoma
+diffuse large B-cell lymphoma
+diffuse type adenocarcinoma
+digestive system cancer
+digestive system infectious disease
+digestive system neoplasm
+digestive system neuroendocrine neoplasm
+dilated cardiomyopathy
+disease of bone structure
+disease of central nervous system or retinal vasculature
+disease of facial skeleton
+disease of genitourinary system
+disease of peritoneum
+disease of pharynx
+disease of pilosebaceous unit
+disease of visual system
+disorder of GPI anchor biosynthesis
+disorder of appendix
+disorder of fatty acid oxidation and ketogenesis
+disorder of glycosylation
+disorder of organic acid metabolism
+disorder of plasmalogens biosynthesis
+drinking behavior
+drug dependence
+drug use measurement
+drug-induced mental disorder
+duodenal disease
+duodenum cancer
+dysostosis
+dysostosis with limb anomaly as a major feature
+dystonic disorder
+electrocardiography
+electroclinical syndrome
+embryonal neoplasm
+embryonal rhabdomyosarcoma
+embryonal tumor of neuroepithelial tissue
+emotional symptom measurement
+encephalomyelitis
+endocrine neoplasm
+endocrine pancreas disease
+endocrine system disease
+endometrial cancer
+endometrial carcinoma
+endometrial disease
+endometrial neoplasm
+endometrioid carcinoma
+endometrioid tumor
+endometrium adenocarcinoma
+endometrium neoplasm
+energy metabolism disorder with epilepsy
+entropion (disease)
+eosinophil count
+eosinophil percentage of granulocytes
+eosinophil percentage of leukocytes
+ependymal neoplasm
+ependymoma
+epidermal appendage anomaly
+epidermolysis bullosa
+epilepsy
+epithelial neoplasm
+epithelial neoplasm of rectum
+epithelial skin neoplasm
+epithelial tumor of colon
+epithelial tumor of the appendix
+erythrocyte count
+erythrocyte disease
+erythrocyte indices
+erythrocyte measurement
+erythroid neoplasm
+esophageal adenocarcinoma
+esophageal cancer
+esophageal carcinoma
+esophageal disease
+esophageal squamous cell carcinoma
+essential thrombocythemia
+estrogen-receptor negative breast cancer
+extragonadal germ cell tumor
+extrahepatic bile duct adenocarcinoma
+extrahepatic bile duct carcinoma
+extrahepatic bile duct neoplasm
+eye adnexa disease
+eye degenerative disease
+eye disease
+eye measurement
+eye neoplasm
+eyelid disease
+eyelid neoplasm
+facial morphology measurement
+facial paralysis
+fallopian tube cancer
+fallopian tube disease
+fallopian tube neoplasm
+familial amyotrophic lateral sclerosis
+familial cardiomyopathy
+familial hemolytic anemia
+familial hypercholesterolemia
+familial hyperlipidemia
+familial hypertrophic cardiomyopathy
+familial nephrotic syndrome
+familial osteosclerosis
+fat body mass
+fatty liver disease
+female breast carcinoma
+female infertility
+female infertility due to hypothalamic-pituitary-gonadal axis disorder
+female reproductive organ cancer
+female reproductive system disease
+female reproductive system neoplasm
+fibrosis
+focal segmental glomerulosclerosis
+follicular thyroid carcinoma
+forced expiratory volume
+gallbladder cancer
+gallbladder carcinoma
+gallbladder disease
+gallbladder neoplasm
+gastric adenocarcinoma
+gastric cancer
+gastric carcinoma
+gastric intestinal type adenocarcinoma
+gastroenteritis
+gastrointestinal disease
+gastrointestinal lymphoma
+generalised epilepsy
+genetic  familial or congenital disease
+genetic alopecia
+genetic cardiac malformation
+genetic disorder
+genetic endocrine growth disease
+genetic otorhinolaryngologic disease
+genetic skin disease
+genotype effect measurement
+germ cell and embryonal cancer
+germ cell tumor
+germinomatous germ cell tumor
+glandular cell neoplasm
+glaucoma
+glioblastoma multiforme
+glioma
+glomerular disease
+glomerular filtration rate
+glomerulonephritis (disease)
+glomerulosclerosis
+glucose measurement
+glucose metabolism disease
+glycerol metabolism disease
+glycoprotein measurement
+glycoprotein metabolism disease
+gonadal disease
+gonadal dysgenesis
+gonadal germ cell tumor
+grade II glioma
+grade III glioma
+granulocyte count
+granulocyte percentage of myeloid white cells
+grip strength measurement
+gut microbiome measurement
+hair anomaly
+hair color
+hair colour measurement
+hair morphology
+hair morphology measurement
+hair shape measurement
+hairy cell leukemia
+head and neck carcinoma
+head and neck malignant neoplasia
+head and neck neoplasia
+head and neck squamous cell carcinoma
+headache disorder
+hearing disorder
+hearing loss
+heart conduction disease
+heart disease
+heart failure
+heart function measurement
+heart rate
+heel bone mineral density
+hemangioblastoma
+hemangioma
+hematocrit
+hematologic disease
+hematological disease associated with an acquired peripheral neuropathy
+hematological measurement
+hematopoietic and lymphoid cell neoplasm
+hematopoietic and lymphoid system neoplasm
+hemoglobin measurement
+hemolytic-uremic syndrome
+hemophagocytic syndrome
+hemorrhagic disease
+hemorrhagic disorder due to a coagulation factors defect
+hemorrhagic disorder due to a platelet anomaly
+hemorrhagic disorder due to a qualitative platelet defect
+hemosiderosis
+hepatic vascular disease
+hepatic veno-occlusive disease
+hepatitis C virus infection
+hepatobiliary disease
+hepatocellular carcinoma
+hereditary amyloidosis
+hereditary ataxia
+hereditary connective tissue disorder
+hereditary hemochromatosis
+hereditary nephritis
+hereditary optic atrophy
+high density lipoprotein cholesterol measurement
+high grade astrocytic tumor
+high grade malignant neoplasm
+hip circumference
+histiocytoma
+homocystinuria (disease)
+hormone measurement
+hypercalcemia  infantile
+hypercalcemia disease
+hyperimmunoglobulin syndrome
+hyperinsulinemic hypoglycaemia
+hyperinsulinemic hypoglycemia
+hyperinsulinemic hypoglycemia  familial  1
+hyperinsulinemic hypoglycemia  familial  2
+hyperinsulinism (disease)
+hyperlipidemia (disease)
+hyperlipoproteinemia
+hyperopia
+hyperostosis
+hyperparathyroidism
+hypersensitivity reaction disease
+hypertension
+hypertension  pregnancy-induced
+hypertrophic cardiomyopathy
+hypnic headache (disease)
+hypochromic anemia (disease)
+hypochromic microcytic anemia (disease)
+hypogonadism
+hypogonadotropic hypogonadism
+hypolipoproteinemia (disease)
+hypoparathyroidism
+hypopituitarism
+hypothyroidism
+hypotrichosis
+hypotrichosis 4
+ichthyosis (disease)
+idiopathic interstitial pneumonia
+idiopathic nephrotic syndrome
+idiopathic pulmonary fibrosis
+idiopathic scoliosis
+immune deficiency disease
+immune system cancer
+immune system disease
+immunodeficiency 27A
+immunodeficiency 28
+immunodeficiency disease
+immunodeficiency due to a complement regulatory deficiency
+impaired renal function disease
+inborn metal metabolism disorder
+inborn mitochondrial metabolism disorder
+inborn vitamin B12 deficiency (disease)
+inclusion body myositis
+indolent B-cell non-Hodgkin lymphoma
+infancy electroclinical syndrome
+infectious disease
+infectious disease biomarker
+infectious disease of the nervous system
+infertility
+inflammation
+inflammatory biomarker measurement
+inflammatory bowel disease
+inflammatory skin disease
+influenza
+inherited amino acid metabolic disorder
+inherited aplastic anemia
+inherited auditory system disease
+inherited bleeding disorder  platelet-type
+inherited digestive cancer-predisposing syndrome
+inherited fatty acid metabolism disorder
+inherited glutathione metabolism disease
+inherited hemoglobinopathy
+inherited nervous system cancer-predisposing syndrome
+inherited porphyria
+injury
+injury  poisoning or other complication
+insomnia
+insomnia measurement
+integumentary system benign neoplasm
+integumentary system cancer
+integumentary system disease
+intelligence
+intermediate Charcot-Marie-Tooth disease
+interstitial lung disease
+interstitial lung disease specific to adulthood
+interstitial lung disease specific to childhood
+intestinal cancer
+intestinal disease
+intestinal motility disease
+intestinal neoplasm
+intestinal neuroendocrine neoplasm
+intestinal polyposis syndrome
+intracranial arterial disease
+intrahepatic cholestasis
+intraocular pressure measurement
+intrinsic cardiomyopathy
+invasive carcinoma
+iron metabolism disease
+ischemia
+ischemia reperfusion injury
+ischemic disease
+islet cell adenomatosis
+islet cell tumor
+isolated constitutional thrombocytopenia
+isolated microphthalmia
+joint disease
+keratinization disease
+keratinocyte carcinoma
+keratosis
+kidney Wilms tumor
+kidney cancer
+kidney disease
+kidney neoplasm
+lacrimal apparatus disease
+laminopathy
+large cell carcinoma
+large cell lung carcinoma
+large cell medulloblastoma
+large intestine disease
+laryngeal carcinoma
+laryngeal disease
+laryngeal neoplasm
+laryngeal squamous cell carcinoma
+larynx cancer
+lean body mass
+leiomyosarcoma
+lens disease
+leukemia
+leukocyte count
+leukocyte disease
+lip and oral cavity carcinoma
+lip and oral cavity squamous cell carcinoma
+lipid measurement
+lipid or lipoprotein measurement
+lipodystrophy
+lipomatous cancer
+lipoprotein measurement
+liposarcoma
+liver and intrahepatic bile duct neoplasm
+liver cancer
+liver disease
+liver disease biomarker
+liver enzyme measurement
+liver neoplasm
+lobular breast carcinoma
+low density lipoprotein cholesterol measurement
+low grade glioma
+lower respiratory tract disease
+lung adenocarcinoma
+lung cancer
+lung carcinoid tumor
+lung carcinoma
+lung disease
+lung neoplasm
+lupus erythematosus
+lupus nephritis
+lymphatic system cancer
+lymphatic system disease
+lymphoblastic leukemia
+lymphocyte count
+lymphocyte percentage of leukocytes
+lymphoid hemopathy
+lymphoid leukemia
+lymphoid neoplasm
+lymphoid system disease
+lymphoma
+lysosomal disease with epilepsy
+macrocytic anemia (disease)
+macula measurement
+macular degeneration
+major depressive disorder
+malabsorption syndrome
+male infertility
+male infertility due to obstructive azoospermia
+male reproductive organ cancer
+male reproductive system disease
+male reproductive system neoplasm
+malformation of the cerebellar vermis
+malignant colon neoplasm
+malignant endocrine neoplasm
+malignant epithelioid mesothelioma
+malignant exocrine pancreas neoplasm
+malignant glioma
+malignant ovarian serous tumor
+malignant pleural mesothelioma
+malignant soft tissue neoplasm
+malignant testicular germ cell tumor
+malignant tumor of adrenal cortex
+malignant tumor of extrahepatic bile duct
+malignant tumor of neck
+malignant tumor of parathyroid gland
+marginal zone B-cell lymphoma
+mathematical ability
+mature T-cell and NK-cell non-Hodgkin lymphoma
+mean arterial pressure
+mean corpuscular hemoglobin
+mean corpuscular hemoglobin concentration
+mean corpuscular volume
+mean platelet volume
+measurement
+medulloblastoma
+megaloblastic anemia (disease)
+melanocytic neoplasm
+melanocytic skin neoplasm
+melanoma
+mendelian susceptibility to mycobacterial diseases due to a complete deficiency
+mendelian susceptibility to mycobacterial diseases due to a partial deficiency
+meningeal neoplasm
+mental or behavioural disorder
+mental or behavioural disorder biomarker
+mental process
+mental retardation
+mental retardation with language impairment
+mesenchymal cell neoplasm
+mesenchymal tumor of small intestine
+mesothelial neoplasm
+mesothelioma
+metabolic disease
+metabolic disease with epilepsy
+metabolic epilepsy
+metabolic neurotransmission anomaly with epilepsy
+metabolic rate measurement
+metabolic syndrome
+metabolite measurement
+metaplastic breast carcinoma
+metastatic colorectal cancer
+metastatic malignant neoplasm
+metastatic neoplasm
+methylmalonic acidemia
+microbiome measurement
+microcephaly (disease)
+microcytic anemia
+microphthalmia
+microphthalmia  isolated  with coloboma
+migraine disorder
+migraine with aura
+mineral metabolism disease
+miscellaneous movement disorder due to neurodegenerative disease
+mitochondrial complex deficiency
+mitochondrial disease with epilepsy
+mitochondrial encephalomyopathy
+mixed dermis disorder
+mixed neoplasm
+monocyte count
+monocyte percentage of leukocytes
+monogenic disease
+monosomy
+mood disorder
+motor neuron disease
+motor peripheral neuropathy
+mouth disease
+mouth neoplasm
+movement disorder
+mucin-producing carcinoma
+mucinous carcinoma
+mucinous neoplasm
+mucinous ovarian cancer
+mucosal melanoma
+multiple myeloma
+multiple sclerosis
+multiple system atrophy
+muscle cancer
+muscle tissue disease
+muscular channelopathy
+muscular disease
+muscular tumor
+musculoskeletal or connective tissue disease
+musculoskeletal system benign neoplasm
+musculoskeletal system cancer
+musculoskeletal system disease
+mycobacterial infectious disease
+myelodysplastic syndrome
+myeloid hemopathy
+myeloid leukemia
+myeloid neoplasm
+myeloid white cell count
+myocardial disorder
+myocardial infarction
+myomatous neoplasm
+myopathy
+myopia (disease)
+myositis
+myxedema
+nasal cavity disease
+nasopharyngeal disease
+nasopharyngeal squamous cell carcinoma
+neonatal period electroclinical syndrome
+neoplasm
+neoplasm of esophagus
+neoplasm of immature B and T cells
+neoplasm of mature B-cells
+neoplasm of mature T-cells or NK-cells
+neoplasm of neck
+neoplasm of testis
+neoplasm of thorax
+neoplastic disease or syndrome
+neoplastic syndrome
+nephritis
+nephropathy-associated ciliopathy
+nephrosis
+nephrotic syndrome
+nervous system benign neoplasm
+nervous system cancer
+nervous system disease
+nervous system injury
+nervous system neoplasm
+neuroaxonal dystrophy
+neuroblastoma
+neurocutaneous syndrome
+neurodegenerative disease
+neurodegenerative disease with dementia
+neuroendocrine carcinoma
+neuroendocrine disease
+neuroendocrine neoplasm
+neuroepithelial neoplasm
+neuromuscular disease
+neuropathy
+neurotic disorder
+neuroticism measurement
+neurovascular disease
+neutropenia
+neutrophil count
+neutrophil percentage of granulocytes
+neutrophil percentage of leukocytes
+nevus
+nodular melanoma
+non-Hodgkins lymphoma
+non-Langerhans cell histiocytosis
+non-alcoholic fatty liver disease
+non-melanoma skin carcinoma
+non-severe combined immunodeficiency
+non-small cell lung carcinoma
+non-small cell squamous lung carcinoma
+non-syndromic intellectual disability
+non-syndromic urogenital tract malformation
+nongerminomatous germ cell tumor
+nonpapillary renal cell carcinoma
+normocytic anemia
+nutritional deficiency disease
+nutritional disorder
+nutritional or metabolic disease
+obesity
+ocular cancer
+ocular vascular disease
+oligodendroglial tumor
+oligodendroglioma
+open-angle glaucoma
+optic atrophy
+optic nerve disease
+oral cavity cancer
+oral cavity carcinoma
+oral squamous cell carcinoma
+osteoarthritis
+osteochondrodysplasia
+osteonecrosis
+osteoporosis
+osteosarcoma
+osteosclerosis
+other epidermal disorder
+other genetic dermis disorder
+other metabolic disease with epilepsy
+other rare diabetes mellitus
+other syndrome with a central nervous system malformation as major feature
+otopalatodigital syndrome spectrum disorder
+ovarian adenocarcinoma
+ovarian cancer
+ovarian carcinoma
+ovarian clear cell cancer
+ovarian clear cell tumor
+ovarian disease
+ovarian dysfunction
+ovarian endometrial cancer
+ovarian epithelial tumor
+ovarian mucinous adenocarcinoma
+ovarian mucinous neoplasm
+ovarian neoplasm
+ovarian serous adenocarcinoma
+ovarian serous tumor
+overnutrition
+pain
+palmoplantar keratosis
+palsy
+pancreas disease
+pancreatic adenocarcinoma
+pancreatic carcinoma
+pancreatic ductal adenocarcinoma
+pancreatic exocrine neoplasm
+pancreatic neoplasm
+pancreatic neuroendocrine tumor
+papillary adenocarcinoma
+papillary carcinoma
+papillary epithelial neoplasm
+papillary renal cell carcinoma
+papillary thyroid carcinoma
+paraplegia
+parasitic infection
+parasitic skin disease
+parathyroid disease
+parental genotype effect measurement
+parkinsonian disorder
+parkinsonian syndrome due to neurodegenerative disease
+partial epilepsy
+partial lipodystrophy
+peak expiratory flow
+perceptual disorders
+perinatal disease
+periodontal disease
+peripheral arterial disease
+peripheral nervous system cancer
+peripheral nervous system disease
+peripheral nervous system neoplasm
+peripheral neuropathy
+peripheral vascular disease
+peritoneal neoplasm
+peritoneum cancer
+peroxisomal disease with epilepsy
+personality trait measurement
+pervasive developmental disorder
+phagocyte bactericidal dysfunction
+pharyngeal squamous cell carcinoma
+pharynx cancer
+pharynx neoplasm
+phenotype
+phosphorus metabolism disease
+physical activity
+physical activity measurement
+pituitary gland disease
+plantar wart
+plasma cell neoplasm
+platelet component distribution width
+platelet count
+platelet crit
+platelet measurement
+pleural disease
+pleural neoplasm
+pneumonia
+pneumonitis
+polycystic kidney disease
+polycystic ovary syndrome
+polycythemia
+polycythemia vera
+polydactyly (disease)
+polyendocrinopathy
+polyp
+population measurement
+porphyrin metabolism disease
+precancerous condition
+preeclampsia
+pregnancy disorder
+pregnancy or perinatal disease
+primary adrenal insufficiency
+primary bacterial infectious disease
+primary hyperparathyroidism (disease)
+primary immunodeficiency disease
+primary interstitial lung disease specific to adulthood
+primary interstitial lung disease specific to childhood
+primary interstitial lung disease specific to childhood due to alveolar structure disorder
+primary lymphedema with associated anomalies
+primary malignant peritoneal tumor
+primary optic atrophy
+primary organ-specific lymphoma
+primary orthostatic hypotension
+primary ovarian insufficiency
+primary peritoneal carcinoma (disease)
+primary peritoneal tumor
+primitive neuroectodermal tumor
+progeroid syndrome
+progressive external ophthalmoplegia
+progressive external ophthalmoplegia with mitochondrial DNA deletions
+prostate adenocarcinoma
+prostate cancer
+prostate carcinoma
+prostate disease
+prostate neoplasm
+protein measurement
+proteostasis deficiencies
+protozoa infectious disease
+pseudohermaphroditism
+pseudohypoaldosteronism
+pseudohypoparathyroidism with Albright hereditary osteodystrophy
+pseudohypoparathyroidism without Albright hereditary osteodystrophy
+psoriasis
+psychiatric disorder
+psychosis
+pulmonary arterial hypertension
+pulmonary fibrosis
+pulmonary function measurement
+pulmonary hypertension
+pulmonary neuroendocrine tumor
+pulse pressure measurement
+pure red-cell aplasia
+purine metabolism disease
+pyrimidine metabolism disease
+rare bronchopulmonary tumor
+rare capillary malformation with associated anomalies
+rare cause of hypertension
+rare diabetes mellitus type 2
+rare disease with Pierre Robin syndrome
+rare disease with malignant hyperthermia
+rare disease with myoclonus as a major feature
+rare disease with odontological manifestation
+rare disorder with ptosis
+rare endocrine growth disease
+rare epidermal disease
+rare epithelial tumor of liver and intrahepatic biliary tract
+rare epithelial tumor of pancreas
+rare epithelial tumor of small intestine
+rare gastroesophageal tumor
+rare genetic odontal or periodontal disorder
+rare genetic vascular tumor
+rare gynecologic or obstetric disease
+rare head and neck malformation
+rare hematologic disease
+rare hypothalamic or pituitary disease
+rare lymphatic system malformation
+rare male fertility disorder with obstructive azoospermia
+rare male infertility due to hypothalamic-pituitary-gonadal axis disorder
+rare neuroinflammatory or neuroimmunological disease
+rare neurologic disease with psychiatric involvement
+rare odontologic disease
+rare otorhinolaryngologic tumor
+rare parathyroid disease and phosphocalcic metabolism anomaly
+rare photodermatosis
+rare refraction anomaly
+rare renal tubular disease
+rare thrombotic disease of hematologic origin
+rare tumor of gallbladder and extrahepatic biliary tract
+rare uterine adnexal tumor
+rasopathy
+rectal adenocarcinoma
+rectal carcinoma
+rectal disease
+rectal neoplasm
+rectum cancer
+red blood cell distribution width
+refractive error
+refractive error measurement
+regulation of biological process
+regulation of gene expression
+renal carcinoma
+renal cell adenocarcinoma
+renal cell carcinoma
+renal system measurement
+renal tubular transport disease
+renal tubule disease
+reproductive behaviour measurement
+reproductive system cancer
+reproductive system disease
+reproductive system neoplasm
+reproductive system or breast disease
+respiratory disease biomarker
+respiratory failure
+respiratory or thoracic disease
+respiratory or thoracic malformation
+respiratory system cancer
+respiratory system disease
+respiratory system neoplasm
+respiratory tract infectious disease
+respiratory tract neoplasm
+response to drug
+response to stimulus
+resting heart rate
+restrictive cardiomyopathy
+reticulate pigment disorder
+reticulocyte count
+reticulocyte measurement
+retinal ciliopathy
+retinal degeneration
+retinal vascular disease
+retinopathy
+retroperitoneal cancer
+retroperitoneal neoplasm
+retroperitoneum carcinoma
+rhabdomyosarcoma
+rheumatic disease
+rheumatoid arthritis
+rhinitis
+rickets
+risk-taking behaviour
+risky sexual behaviour measurement
+salivary gland adenoid cystic carcinoma
+salivary gland cancer
+salivary gland carcinoma
+salivary gland disease
+salivary gland neoplasm
+sarcoma
+schizoaffective disorder
+schizophrenia
+scleroderma
+sclerosing cholangitis
+scoliosis
+seasonal allergic rhinitis
+sebaceous gland disease
+secondary avascular necrosis
+secondary glomerular disease
+secondary interstitial lung disease specific to childhood associated with a granulomatous disease
+secondary interstitial lung disease specific to childhood associated with a metabolic disease
+secondary interstitial lung disease specific to childhood associated with a systemic disease
+secondary malignant neoplasm
+secondary neoplasm
+self reported educational attainment
+seminoma
+sensory peripheral neuropathy
+sensory system cancer
+serous adenocarcinoma
+serous neoplasm
+serum metabolite measurement
+serum urea measurement
+sex-linked disease
+sexually transmitted disease
+sideroblastic anemia
+sign or symptom
+simple vascular malformation
+skeletal muscle cancer
+skeletal muscle neoplasm
+skeletal system disease
+skin appendage disease
+skin cancer
+skin carcinoma
+skin disease
+skin disease caused by infection
+skin neoplasm
+skin pigmentation
+skin vascular disease
+skull disorder
+sleep duration
+sleep measurement
+small cell carcinoma
+small cell lung carcinoma
+small intestinal adenocarcinoma
+small intestine cancer
+small intestine carcinoma
+small intestine disease
+small intestine neoplasm
+small intestine neuroendocrine tumor
+small intestine neuroendocrine tumor  well differentiated  low or intermediate grade
+smoking behavior
+smoking behaviour measurement
+smoking cessation
+smoking initiation
+smoking status measurement
+smooth muscle cancer
+smooth muscle tumor
+soft tissue sarcoma
+specific developmental disorder
+sphingolipidosis with epilepsy
+spinal cord disease
+spinal muscular atrophy
+spleen cancer
+spleen neoplasm
+splenic disease
+spondylitis
+spondyloarthropathy
+squamous cell carcinoma
+squamous cell lung carcinoma
+squamous cell neoplasm
+steroid inherited metabolic disorder
+steroid metabolism disease
+steroid-resistant nephrotic syndrome
+stomach disease
+stomach neoplasm
+stomach polyp
+stress-related disorder
+striatonigral degeneration
+stroke
+subcutaneous tissue disease
+substance dependence
+substance-related disorder
+sulfur metabolism disease
+sum of basophil and neutrophil counts
+sum of eosinophil and basophil counts
+sum of neutrophil and eosinophil counts
+syndactyly (disease)
+syndrome caused by partial chromosomal deletion
+syndrome caused by partial chromosomal duplication
+syndrome with combined immunodeficiency
+syndromic constitutional thrombocytopenia
+syndromic diaphragmatic or abdominal wall malformation
+syndromic diaphragmatic or thoracic malformation
+syndromic hereditary optic neuropathy
+syndromic intellectual disability
+syndromic respiratory or mediastinal malformation
+synpolydactyly
+synucleinopathy
+systemic autoimmune disease
+systemic lupus erythematosus
+systemic scleroderma
+systolic blood pressure
+tauopathy
+temporal measurement
+teratozoospermia
+testicular carcinoma
+testicular disease
+testicular neoplasm
+testicular pure germ cell tumor
+testicular seminoma
+thiamine-responsive dysfunction syndrome
+third cranial nerve disease
+thoracic cancer
+thoracic disease
+thoracic malformation
+thrombocytosis disease
+thrombotic disease
+thrombotic disorder due to a platelet anomaly
+thrombotic disorder due to an acquired platelet anomaly
+thymic epithelial neoplasm
+thymus cancer
+thymus gland disease
+thymus neoplasm
+thyroid cancer
+thyroid carcinoma
+thyroid disease
+thyroid gland adenocarcinoma
+thyroid neoplasm
+thyroiditis (disease)
+tooth disease
+tooth hard tissue disease
+total cholesterol measurement
+toxemia of pregnancy
+tracheal disease
+transitional cell neoplasm
+transposition of the great arteries and conotruncal cardiac anomaly
+triglyceride measurement
+tumor of adipose tissue
+tumor of duodenum
+tumor of parathyroid gland
+tumor of testis and paratestis
+tumor of uterus
+tumour of cranial and spinal nerves
+type 1 interferonopathy
+type I diabetes mellitus
+type II diabetes mellitus
+type II hypersensitivity reaction disease
+type IV hypersensitivity disease
+ulcerative colitis
+unclassified cardiomyopathy
+undifferentiated carcinoma
+undifferentiated pleomorphic sarcoma
+unipolar depression
+unspecified peripheral T-cell lymphoma
+upper digestive tract disease
+upper respiratory tract disease
+urate measurement
+urinary albumin to creatinine ratio
+urinary bladder cancer
+urinary metabolite measurement
+urinary system disease
+urinary system neoplasm
+urogenital neoplasm
+urothelial carcinoma
+urothelial neoplasm
+uterine cancer
+uterine carcinoma
+uterine cervix neoplasm
+uterine disease
+uterine neoplasm
+uvea neoplasm
+uveal cancer
+uveal disease
+variable age onset epilepsy
+vascular anomaly
+vascular bone neoplasm
+vascular cancer
+vascular disease
+vascular neoplasm
+vascular sarcoma
+vasculitis
+vertebral column disease
+vertebral disease
+vertebral joint disease
+vesiculobullous skin disease
+viral disease
+viral human hepatitis infection
+viral infection of central nervous system
+viral load
+viral respiratory tract infection
+viral sexually transmitted disease
+virus associated tumor
+visceral adipose tissue measurement
+vision disorder
+vital capacity
+vital signs
+vitamin B deficiency
+vitamin B12 deficiency
+vitamin D-dependent rickets
+vitamin deficiency
+vitamin deficiency disorder
+vitamin metabolic disorder
+vitreous body disease
+vitreous disease
+vitreous syneresis
+von Willebrand disease (hereditary or acquired)
+waist circumference
+waist-hip ratio
+wellbeing measurement
+whole body water mass
+worry measurement

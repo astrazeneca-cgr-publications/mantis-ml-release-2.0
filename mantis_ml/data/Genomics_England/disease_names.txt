@@ -1,0 +1,153 @@
+Adult onset movement disorder
+Adult solid tumours cancer susceptibility
+Adult solid tumours for rare disease
+Albinism or congenital nystagmus
+Amelogenesis imperfecta
+Amyotrophic lateral sclerosis motor neuron disease
+Anophthalmia or microphthalmia
+Arthrogryposis
+Ataxia and cerebellar anomalies - narrow panel
+Autism
+Bleeding and platelet disorders
+Brain channelopathy
+CAKUT
+COVID-19 research
+Cardiomyopathies - including childhood onset
+Cataracts
+Cerebellar hypoplasia
+Cerebral malformations
+Childhood onset dystonia or chorea or related movement disorder
+Childhood solid tumours cancer susceptibility
+Cholestasis
+Clefting
+ClinGen Gene Validity Curations
+Congenital disorders of glycosylation
+Congenital hypothyroidism
+Congenital muscular dystrophy
+Congenital myaesthenic syndrome
+Congenital myopathy
+Corneal abnormalities
+Corneal dystrophies
+Craniosynostosis
+Cystic kidney disease
+Cystic renal disease
+Cytopenia - NOT Fanconi anaemia
+Cytopenias and congenital anaemias
+DDG2P
+Deafness and congenital structural abnormalities
+Diabetes - neonatal onset
+Diabetes with additional phenotypes suggestive of a monogenic aetiology
+Dilated Cardiomyopathy and conduction defects
+Dilated cardiomyopathy - adult and teen
+Disorders of sex development
+Distal myopathies
+Early onset dementia (encompassing fronto-temporal dementia and prion disease)
+Early onset dystonia
+Ectodermal dysplasia
+Ectodermal dysplasia without a known gene mutation
+Ehlers Danlos syndromes
+Epidermolysis bullosa and congenital skin fragility
+Familial diabetes
+Familial non syndromic congenital heart disease
+Familial pulmonary fibrosis
+Fetal anomalies
+Fetal hydrops
+Gastrointestinal epithelial barrier disorders
+Gene therapy clinical trials
+Genetic epilepsy syndromes
+Glycogen storage disease
+Groopman et al 2019 - Genes with diagnostic variants
+Growth failure in early childhood
+Haematological malignancies cancer susceptibility
+Haematological malignancies for rare disease
+Hearing loss
+Hereditary ataxia
+Hereditary ataxia - adult onset
+Hereditary ataxia and cerebellar anomalies - childhood onset
+Hereditary neuropathy
+Hereditary neuropathy NOT PMP22 copy number
+Hereditary spastic paraplegia
+Hereditary spastic paraplegia - adult onset
+Hereditary spastic paraplegia - childhood onset
+Hydrocephalus
+Hyperammonaemia
+Hypertrophic cardiomyopathy - teen and adult
+Hypogonadotropic hypogonadism
+Hypotonic infant
+IUGR and IGF abnormalities
+Ichthyosis and erythrokeratoderma
+Inborn errors of metabolism
+Infantile enterocolitis & monogenic inflammatory bowel disease
+Inherited bleeding disorders
+Inherited white matter disorders
+Intellectual disability
+Intracerebral calcification disorders
+Ketotic hypoglycaemia
+Laterality disorders and isomerism
+Limb disorders
+Limb girdle muscular dystrophy
+Lysosomal storage disorder
+Malformations of cortical development
+Mitochondrial DNA maintenance disorder
+Mitochondrial disorder with complex I deficiency
+Mitochondrial disorders
+Monogenic diabetes
+Mosaic skin disorders - deep sequencing
+Neonatal cholestasis
+Nephrocalcinosis or nephrolithiasis
+Nephrolithiasis and Nephrocalcinosis KidGen VCGS
+Neurodegenerative disorders - adult onset
+Neurofibromatosis Type 1
+Neurological ciliopathies
+Neuromuscular disorders
+Ocular coloboma
+Ophthalmological ciliopathies
+Optic neuropathy
+Osteogenesis imperfecta
+Paediatric disorders
+Pain syndromes
+Palmoplantar keratoderma and erythrokeratodermas
+Palmoplantar keratodermas
+Parkinson Disease and Complex Parkinsonism
+Paroxysmal central nervous system disorders
+Periodic fever syndromes
+Pigmentary skin disorders
+Pituitary hormone deficiency
+Possible mitochondrial disorder - nuclear genes
+Primary ciliary disorders
+Primary immunodeficiency
+Primary lymphoedema
+Primary ovarian insufficiency
+Proteinuric renal disease
+Pyruvate dehydrogenase (PDH) deficiency
+Radial dysplasia
+Rare anaemia
+Rare genetic inflammatory skin disorders
+Rare multisystem ciliopathy Super panel
+Rare multisystem ciliopathy disorders
+Renal ciliopathies
+Renal superpanel - broad
+Renal superpanel - narrow
+Renal tubulopathies
+Respiratory ciliopathies including non-CF bronchiectasis
+Retinal disorders
+Rhabdomyolysis and metabolic muscle disorders
+Severe Paediatric Disorders
+Severe early-onset obesity
+Severe microcephaly
+Skeletal ciliopathies
+Skeletal dysplasia
+Structural basal ganglia disorders
+Structural eye disease
+Sudden cardiac death
+Thoracic aortic aneurysm and dissection
+Thoracic aortic aneurysm or dissection
+Thoracic dystrophies
+Tumour predisposition - childhood onset
+Undiagnosed metabolic disorders
+Unexplained kidney failure in young people
+Unexplained paediatric onset end-stage renal disease
+Vascular skin disorders
+White matter disorders - adult onset
+White matter disorders - childhood onset
+White matter disorders and cerebral calcification - narrow panel

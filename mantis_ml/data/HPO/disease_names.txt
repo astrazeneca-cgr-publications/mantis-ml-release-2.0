@@ -1,0 +1,2596 @@
+2-3 toe syndactyly
+Abdominal distention
+Abdominal pain
+Abdominal symptom
+Abdominal wall defect
+Abnormal 2nd finger morphology
+Abnormal 5th finger morphology
+Abnormal 5th finger phalanx morphology
+Abnormal C-reactive protein level
+Abnormal CNS myelination
+Abnormal CSF lactate level
+Abnormal CSF metabolite level
+Abnormal CSF protein level
+Abnormal EKG
+Abnormal LDL cholesterol concentration
+Abnormal QT interval
+Abnormal ST segment
+Abnormal T cell count
+Abnormal T cell morphology
+Abnormal T cell subset distribution
+Abnormal abdomen morphology
+Abnormal activity of mitochondrial respiratory chain
+Abnormal adipose tissue morphology
+Abnormal aggressive impulsive or violent behavior
+Abnormal albumin level
+Abnormal anatomic location of the heart
+Abnormal anterior chamber morphology
+Abnormal anterior eye segment morphology
+Abnormal aortic arch morphology
+Abnormal aortic morphology
+Abnormal aortic valve cusp morphology
+Abnormal aortic valve morphology
+Abnormal aortic valve physiology
+Abnormal appendicular skeleton morphology
+Abnormal arterial physiology
+Abnormal astrocyte morphology
+Abnormal atrial septum morphology
+Abnormal atrioventricular conduction
+Abnormal atrioventricular valve morphology
+Abnormal atrioventricular valve physiology
+Abnormal autonomic nervous system morphology
+Abnormal autonomic nervous system physiology
+Abnormal axial skeleton morphology
+Abnormal basal ganglia MRI signal intensity
+Abnormal biliary tract morphology
+Abnormal bleeding
+Abnormal blistering of the skin
+Abnormal blood cation concentration
+Abnormal blood glucose concentration
+Abnormal blood inorganic cation concentration
+Abnormal blood ion concentration
+Abnormal blood monovalent inorganic cation concentration
+Abnormal blood phosphate concentration
+Abnormal blood potassium concentration
+Abnormal blood sodium concentration
+Abnormal blood transition element cation concentration
+Abnormal bone ossification
+Abnormal bone structure
+Abnormal brain FDG positron emission tomography
+Abnormal brain positron emission tomography
+Abnormal brainstem MRI signal intensity
+Abnormal breast morphology
+Abnormal breath sound
+Abnormal bronchus morphology
+Abnormal calcium-phosphate regulating hormone level
+Abnormal cardiac atrium morphology
+Abnormal cardiac septum morphology
+Abnormal cardiac test
+Abnormal cardiac ventricle morphology
+Abnormal cardiac ventricular function
+Abnormal cardiovascular system physiology
+Abnormal carotid artery morphology
+Abnormal cartilage morphology
+Abnormal cellular immune system morphology
+Abnormal cellular phenotype
+Abnormal cellular physiology
+Abnormal central motor function
+Abnormal cerebellum morphology
+Abnormal cerebral artery morphology
+Abnormal cerebral morphology
+Abnormal chorioretinal morphology
+Abnormal choroid morphology
+Abnormal ciliary motility
+Abnormal circulating IgA level
+Abnormal circulating IgE level
+Abnormal circulating IgG level
+Abnormal circulating IgM level
+Abnormal circulating alanine concentration
+Abnormal circulating androgen level
+Abnormal circulating calcium concentration
+Abnormal circulating carbohydrate concentration
+Abnormal circulating carboxylic acid concentration
+Abnormal circulating cholesterol concentration
+Abnormal circulating creatine kinase concentration
+Abnormal circulating creatinine level
+Abnormal circulating estrogen level
+Abnormal circulating fatty-acid concentration
+Abnormal circulating follicle-stimulating hormone level
+Abnormal circulating gonadotropin level
+Abnormal circulating hormone level
+Abnormal circulating insulin level
+Abnormal circulating lipid concentration
+Abnormal circulating luteinizing hormone level
+Abnormal circulating metabolite concentration
+Abnormal circulating nitrogen compound concentration
+Abnormal circulating nucleobase concentration
+Abnormal circulating protein level
+Abnormal circulating purine concentration
+Abnormal circulating pyruvate family amino acid concentration
+Abnormal circulating renin
+Abnormal cochlea morphology
+Abnormal conjugate eye movement
+Abnormal conjunctiva morphology
+Abnormal connection of the cardiac segments
+Abnormal consumption behavior
+Abnormal cornea morphology
+Abnormal corneal epithelium morphology
+Abnormal coronary artery morphology
+Abnormal corpus callosum morphology
+Abnormal corpus striatum morphology
+Abnormal cortical bone morphology
+Abnormal cortical gyration
+Abnormal cranial nerve morphology
+Abnormal cranial nerve physiology
+Abnormal cry
+Abnormal delivery
+Abnormal dermatoglyphics
+Abnormal diaphysis morphology
+Abnormal digit morphology
+Abnormal distal phalanx morphology of finger
+Abnormal drinking behavior
+Abnormal ear morphology
+Abnormal ear physiology
+Abnormal eating behavior
+Abnormal elasticity of skin
+Abnormal electrophysiology of sinoatrial node origin
+Abnormal electroretinogram
+Abnormal emotion affect behavior
+Abnormal enchondral ossification
+Abnormal endocardium morphology
+Abnormal endocrine morphology
+Abnormal enzyme coenzyme activity
+Abnormal eosinophil count
+Abnormal eosinophil morphology
+Abnormal epiphyseal ossification
+Abnormal epiphysis morphology of the phalanges of the hand
+Abnormal erythrocyte morphology
+Abnormal erythrocyte sedimentation rate
+Abnormal esophagus morphology
+Abnormal external genitalia
+Abnormal eye morphology
+Abnormal eye physiology
+Abnormal eyebrow morphology
+Abnormal eyelash morphology
+Abnormal eyelid morphology
+Abnormal eyelid physiology
+Abnormal facial expression
+Abnormal facial shape
+Abnormal fear anxiety-related behavior
+Abnormal female reproductive system physiology
+Abnormal finger phalanx morphology
+Abnormal fingernail morphology
+Abnormal fingertip morphology
+Abnormal foot morphology
+Abnormal forearm bone morphology
+Abnormal form of the vertebral bodies
+Abnormal foveal morphology
+Abnormal full-field electroretinogram
+Abnormal fundus morphology
+Abnormal gallbladder morphology
+Abnormal gastrointestinal motility
+Abnormal glial cell morphology
+Abnormal glucose homeostasis
+Abnormal glycosylation
+Abnormal granulocyte count
+Abnormal granulocyte morphology
+Abnormal growth hormone level
+Abnormal hair laboratory examination
+Abnormal hair morphology
+Abnormal hair pattern
+Abnormal hair quantity
+Abnormal hand bone ossification
+Abnormal hand morphology
+Abnormal hard palate morphology
+Abnormal heart morphology
+Abnormal heart valve morphology
+Abnormal heart valve physiology
+Abnormal hemoglobin
+Abnormal homeostasis
+Abnormal hypothalamus physiology
+Abnormal ileum morphology
+Abnormal immune system morphology
+Abnormal immunoglobulin level
+Abnormal inflammatory response
+Abnormal insulin level
+Abnormal intermamillary distance
+Abnormal internal genitalia
+Abnormal intestine morphology
+Abnormal involuntary eye movements
+Abnormal iris pigmentation
+Abnormal isoelectric focusing of serum transferrin
+Abnormal jaw morphology
+Abnormal joint morphology
+Abnormal lacrimal duct morphology
+Abnormal lactate dehydrogenase level
+Abnormal large intestine morphology
+Abnormal large intestine physiology
+Abnormal larynx morphology
+Abnormal larynx physiology
+Abnormal left ventricle morphology
+Abnormal leukocyte count
+Abnormal leukocyte morphology
+Abnormal light- and dark-adapted electroretinogram
+Abnormal lip morphology
+Abnormal liver morphology
+Abnormal localization of kidney
+Abnormal location of ears
+Abnormal lower limb bone morphology
+Abnormal lung lobation
+Abnormal lung morphology
+Abnormal lymphocyte count
+Abnormal lymphocyte morphology
+Abnormal lymphocyte physiology
+Abnormal macrophage morphology
+Abnormal macular morphology
+Abnormal magnesium concentration
+Abnormal male reproductive system physiology
+Abnormal male urethral meatus morphology
+Abnormal meningeal morphology
+Abnormal metabolic brain imaging by MRS
+Abnormal metabolism
+Abnormal metacarpal morphology
+Abnormal metatarsal morphology
+Abnormal middle phalanx morphology of the hand
+Abnormal mitochondria in muscle tissue
+Abnormal mitral valve morphology
+Abnormal mitral valve physiology
+Abnormal morphology of female internal genitalia
+Abnormal morphology of the abdominal musculature
+Abnormal morphology of the great vessels
+Abnormal morphology of the musculature of the neck
+Abnormal morphology of the radius
+Abnormal morphology of ulna
+Abnormal motor nerve conduction velocity
+Abnormal motor neuron morphology
+Abnormal mucociliary clearance
+Abnormal muscle fiber morphology
+Abnormal muscle fiber protein expression
+Abnormal muscle physiology
+Abnormal muscle tone
+Abnormal myelination
+Abnormal myeloid leukocyte morphology
+Abnormal myocardium morphology
+Abnormal nasal morphology
+Abnormal nasolacrimal system morphology
+Abnormal nephron morphology
+Abnormal nerve conduction velocity
+Abnormal nervous system electrophysiology
+Abnormal nervous system morphology
+Abnormal nervous system physiology
+Abnormal neural tube morphology
+Abnormal neuron morphology
+Abnormal neutrophil count
+Abnormal nipple morphology
+Abnormal number of incisors
+Abnormal number of teeth
+Abnormal ocular adnexa morphology
+Abnormal ocular adnexa physiology
+Abnormal oral cavity morphology
+Abnormal oral frenulum morphology
+Abnormal oral morphology
+Abnormal oral mucosa morphology
+Abnormal oral physiology
+Abnormal ovarian morphology
+Abnormal ovarian physiology
+Abnormal palate morphology
+Abnormal palmar dermatoglyphics
+Abnormal pancreas morphology
+Abnormal pancreas size
+Abnormal parietal bone morphology
+Abnormal patella morphology
+Abnormal pattern of respiration
+Abnormal pericardium morphology
+Abnormal peripheral myelination
+Abnormal peripheral nervous system morphology
+Abnormal peripheral nervous system synaptic transmission
+Abnormal phalangeal joint morphology of the hand
+Abnormal platelet aggregation
+Abnormal platelet count
+Abnormal platelet function
+Abnormal platelet volume
+Abnormal pleura morphology
+Abnormal posterior eye segment morphology
+Abnormal prostate morphology
+Abnormal protein N-linked glycosylation
+Abnormal protein glycosylation
+Abnormal prothrombin time
+Abnormal pulmonary artery morphology
+Abnormal pulmonary thoracic imaging finding
+Abnormal pulmonary valve morphology
+Abnormal pulmonary valve physiology
+Abnormal pupil morphology
+Abnormal pupillary function
+Abnormal pyramidal sign
+Abnormal reflex
+Abnormal renal corpuscle morphology
+Abnormal renal cortex morphology
+Abnormal renal insterstitial morphology
+Abnormal renal medulla morphology
+Abnormal renal morphology
+Abnormal renal pelvis morphology
+Abnormal renal physiology
+Abnormal renal tubule morphology
+Abnormal reproductive system morphology
+Abnormal respiratory motile cilium physiology
+Abnormal respiratory system morphology
+Abnormal reticulocyte morphology
+Abnormal retinal artery morphology
+Abnormal retinal morphology
+Abnormal retinal vascular morphology
+Abnormal saccadic eye movements
+Abnormal sacrum morphology
+Abnormal scalp morphology
+Abnormal sclera morphology
+Abnormal serum estradiol
+Abnormal serum ferritin
+Abnormal serum testosterone level
+Abnormal sex determination
+Abnormal shape of the frontal region
+Abnormal shape of the occiput
+Abnormal shape of the palpebral fissure
+Abnormal size of the clitoris
+Abnormal size of the palpebral fissures
+Abnormal skeletal muscle morphology
+Abnormal skin morphology of the palm
+Abnormal skull morphology
+Abnormal social behavior
+Abnormal soft palate morphology
+Abnormal spatial orientation of the cardiac segments
+Abnormal sperm motility
+Abnormal spermatogenesis
+Abnormal spirometry test
+Abnormal spleen morphology
+Abnormal sputum
+Abnormal stomach morphology
+Abnormal subarachnoid space morphology
+Abnormal superficial reflex
+Abnormal synaptic transmission
+Abnormal synaptic transmission at the neuromuscular junction
+Abnormal systemic arterial morphology
+Abnormal systemic blood pressure
+Abnormal tendon morphology
+Abnormal testis morphology
+Abnormal thrombocyte morphology
+Abnormal thrombosis
+Abnormal thumb morphology
+Abnormal thyroid morphology
+Abnormal tissue metabolite concentration
+Abnormal toenail morphology
+Abnormal tongue morphology
+Abnormal tongue physiology
+Abnormal trabecular bone morphology
+Abnormal trachea morphology
+Abnormal tracheobronchial morphology
+Abnormal tricuspid valve morphology
+Abnormal tricuspid valve physiology
+Abnormal tubulointerstitial morphology
+Abnormal umbilicus morphology
+Abnormal upper limb bone morphology
+Abnormal ureter morphology
+Abnormal ureter physiology
+Abnormal urinary electrolyte concentration
+Abnormal urine carbohydrate level
+Abnormal urine cytology
+Abnormal urine output
+Abnormal urine pH
+Abnormal urine phosphate concentration
+Abnormal urine protein level
+Abnormal uterus morphology
+Abnormal uvea morphology
+Abnormal vagina morphology
+Abnormal vascular morphology
+Abnormal vascular physiology
+Abnormal venous morphology
+Abnormal ventricular septum morphology
+Abnormal ventriculoarterial connection
+Abnormal vertebral morphology
+Abnormal visual electrophysiology
+Abnormal vitreous humor morphology
+Abnormal waist to hip ratio
+Abnormalities of placenta or umbilical cord
+Abnormality iris morphology
+Abnormality of B cell physiology
+Abnormality of T cell physiology
+Abnormality of acid-base homeostasis
+Abnormality of adrenal morphology
+Abnormality of adrenal physiology
+Abnormality of alkaline phosphatase level
+Abnormality of binocular vision
+Abnormality of bladder morphology
+Abnormality of blood and blood-forming tissues
+Abnormality of blood circulation
+Abnormality of blood volume homeostasis
+Abnormality of body height
+Abnormality of body weight
+Abnormality of bone marrow cell morphology
+Abnormality of bone mineral density
+Abnormality of brain morphology
+Abnormality of brainstem morphology
+Abnormality of calvarial morphology
+Abnormality of cardiovascular system electrophysiology
+Abnormality of cardiovascular system morphology
+Abnormality of central nervous system electrophysiology
+Abnormality of chromosome stability
+Abnormality of circulating adrenocorticotropin level
+Abnormality of circulating cortisol level
+Abnormality of circulating enzyme level
+Abnormality of circulating fibrinogen
+Abnormality of circulating glucocorticoid level
+Abnormality of coagulation
+Abnormality of complement system
+Abnormality of connective tissue
+Abnormality of coordination
+Abnormality of corneal size
+Abnormality of corneal stroma
+Abnormality of corneal thickness
+Abnormality of cranial sutures
+Abnormality of dental enamel
+Abnormality of dental eruption
+Abnormality of dental morphology
+Abnormality of dental structure
+Abnormality of digestive system morphology
+Abnormality of digestive system physiology
+Abnormality of earlobe
+Abnormality of endocrine pancreas physiology
+Abnormality of enteric ganglion morphology
+Abnormality of enteric nervous system morphology
+Abnormality of epidermal morphology
+Abnormality of epiphysis morphology
+Abnormality of esophagus physiology
+Abnormality of exocrine pancreas physiology
+Abnormality of extrapyramidal motor function
+Abnormality of eye movement
+Abnormality of facial musculature
+Abnormality of facial skeleton
+Abnormality of facial soft tissue
+Abnormality of female external genitalia
+Abnormality of femoral epiphysis
+Abnormality of femur morphology
+Abnormality of fibula morphology
+Abnormality of finger
+Abnormality of fluid regulation
+Abnormality of fontanelles
+Abnormality of forearm bone
+Abnormality of forebrain morphology
+Abnormality of fundus pigmentation
+Abnormality of globe location
+Abnormality of globe size
+Abnormality of glycolysis
+Abnormality of hair growth
+Abnormality of hair growth rate
+Abnormality of hair pigmentation
+Abnormality of hair texture
+Abnormality of head blood vessel
+Abnormality of head or neck
+Abnormality of hepatobiliary system physiology
+Abnormality of higher mental function
+Abnormality of hindbrain morphology
+Abnormality of humoral immunity
+Abnormality of immune system physiology
+Abnormality of incisor morphology
+Abnormality of intracranial pressure
+Abnormality of joint mobility
+Abnormality of lateral ventricle
+Abnormality of limb bone
+Abnormality of limb bone morphology
+Abnormality of limb epiphysis morphology
+Abnormality of limbs
+Abnormality of lipoprotein cholesterol concentration
+Abnormality of long bone morphology
+Abnormality of lower limb epiphysis morphology
+Abnormality of lower limb joint
+Abnormality of lower lip
+Abnormality of macular pigmentation
+Abnormality of malar bones
+Abnormality of male external genitalia
+Abnormality of male internal genitalia
+Abnormality of metabolism homeostasis
+Abnormality of midbrain morphology
+Abnormality of mitochondrial metabolism
+Abnormality of molar
+Abnormality of molar morphology
+Abnormality of mouth shape
+Abnormality of mouth size
+Abnormality of movement
+Abnormality of multiple cell lineages in the bone marrow
+Abnormality of muscle size
+Abnormality of neuronal migration
+Abnormality of neutrophils
+Abnormality of ocular smooth pursuit
+Abnormality of odontoid tissue
+Abnormality of pain sensation
+Abnormality of pancreas physiology
+Abnormality of pelvic girdle bone morphology
+Abnormality of periauricular region
+Abnormality of peripheral nerve conduction
+Abnormality of peripheral nerves
+Abnormality of peripheral nervous system electrophysiology
+Abnormality of permanent molar morphology
+Abnormality of prenatal development or birth
+Abnormality of primary teeth
+Abnormality of prothrombin
+Abnormality of pulmonary circulation
+Abnormality of refraction
+Abnormality of renal excretion
+Abnormality of renal glomerulus morphology
+Abnormality of renin-angiotensin system
+Abnormality of reproductive system physiology
+Abnormality of retinal pigmentation
+Abnormality of salivation
+Abnormality of secondary sexual hair
+Abnormality of serum amino acid level
+Abnormality of skeletal maturation
+Abnormality of skeletal morphology
+Abnormality of skeletal muscle fiber size
+Abnormality of skeletal physiology
+Abnormality of skin adnexa morphology
+Abnormality of skin adnexa physiology
+Abnormality of skin morphology
+Abnormality of skin physiology
+Abnormality of skin pigmentation
+Abnormality of skull ossification
+Abnormality of skull size
+Abnormality of subcutaneous fat tissue
+Abnormality of temperature regulation
+Abnormality of thalamus morphology
+Abnormality of the 1st metacarpal
+Abnormality of the 2nd toe
+Abnormality of the 5th toe
+Abnormality of the Achilles tendon
+Abnormality of the abdominal organs
+Abnormality of the abdominal wall
+Abnormality of the acetabulum
+Abnormality of the adrenal glands
+Abnormality of the alveolar ridges
+Abnormality of the amniotic fluid
+Abnormality of the ankles
+Abnormality of the anterior fontanelle
+Abnormality of the anterior pituitary
+Abnormality of the anus
+Abnormality of the auditory canal
+Abnormality of the autonomic nervous system
+Abnormality of the axillary hair
+Abnormality of the basal ganglia
+Abnormality of the biliary system
+Abnormality of the bladder
+Abnormality of the breast
+Abnormality of the calf
+Abnormality of the calf musculature
+Abnormality of the calvaria
+Abnormality of the cardiovascular system
+Abnormality of the carpal bones
+Abnormality of the cerebellar vermis
+Abnormality of the cerebral cortex
+Abnormality of the cerebral subcortex
+Abnormality of the cerebral vasculature
+Abnormality of the cerebral ventricles
+Abnormality of the cerebral white matter
+Abnormality of the cerebrospinal fluid
+Abnormality of the cervical spine
+Abnormality of the cheek
+Abnormality of the chin
+Abnormality of the choanae
+Abnormality of the clavicle
+Abnormality of the clitoris
+Abnormality of the coagulation cascade
+Abnormality of the columella
+Abnormality of the common coagulation pathway
+Abnormality of the curvature of the cornea
+Abnormality of the curvature of the vertebral column
+Abnormality of the dental pulp
+Abnormality of the dental root
+Abnormality of the dentition
+Abnormality of the diaphragm
+Abnormality of the diencephalon
+Abnormality of the digestive system
+Abnormality of the distal phalanges of the toes
+Abnormality of the distal phalanx of the thumb
+Abnormality of the duodenum
+Abnormality of the ear
+Abnormality of the elbow
+Abnormality of the endocrine system
+Abnormality of the epiphyses of the hand
+Abnormality of the epiphysis of the femoral head
+Abnormality of the external nose
+Abnormality of the eye
+Abnormality of the face
+Abnormality of the female genitalia
+Abnormality of the femoral head
+Abnormality of the femoral neck
+Abnormality of the femoral neck or head region
+Abnormality of the fontanelles or cranial sutures
+Abnormality of the forearm
+Abnormality of the forehead
+Abnormality of the fourth ventricle
+Abnormality of the frontal hairline
+Abnormality of the gallbladder
+Abnormality of the gastric mucosa
+Abnormality of the gastrointestinal tract
+Abnormality of the genital system
+Abnormality of the genitourinary system
+Abnormality of the gingiva
+Abnormality of the hairline
+Abnormality of the hallux
+Abnormality of the hand
+Abnormality of the head
+Abnormality of the helix
+Abnormality of the hepatic vasculature
+Abnormality of the hip bone
+Abnormality of the hip joint
+Abnormality of the humeroradial joint
+Abnormality of the humerus
+Abnormality of the hypothalamus-pituitary axis
+Abnormality of the ilium
+Abnormality of the immune system
+Abnormality of the incisor
+Abnormality of the inner ear
+Abnormality of the integument
+Abnormality of the intervertebral disk
+Abnormality of the intrinsic pathway
+Abnormality of the kidney
+Abnormality of the knee
+Abnormality of the labia
+Abnormality of the labia majora
+Abnormality of the labia minora
+Abnormality of the larynx
+Abnormality of the lens
+Abnormality of the line of Schwalbe
+Abnormality of the liver
+Abnormality of the lower limb
+Abnormality of the lower urinary tract
+Abnormality of the lymph nodes
+Abnormality of the lymphatic system
+Abnormality of the male genitalia
+Abnormality of the mandible
+Abnormality of the maxilla
+Abnormality of the mediastinum
+Abnormality of the menstrual cycle
+Abnormality of the metacarpal bones
+Abnormality of the metaphysis
+Abnormality of the metencephalon
+Abnormality of the metopic suture
+Abnormality of the middle ear
+Abnormality of the middle phalanx of the 5th finger
+Abnormality of the midface
+Abnormality of the mitochondrion
+Abnormality of the mouth
+Abnormality of the musculature
+Abnormality of the musculature of the hand
+Abnormality of the musculature of the limbs
+Abnormality of the musculature of the lower limbs
+Abnormality of the musculature of the upper limbs
+Abnormality of the nail
+Abnormality of the nares
+Abnormality of the nasal alae
+Abnormality of the nasal bridge
+Abnormality of the nasal dorsum
+Abnormality of the nasal mucosa
+Abnormality of the nasal tip
+Abnormality of the nasopharynx
+Abnormality of the neck
+Abnormality of the nervous system
+Abnormality of the nose
+Abnormality of the ocular adnexa
+Abnormality of the odontoid process
+Abnormality of the optic disc
+Abnormality of the optic nerve
+Abnormality of the orbital region
+Abnormality of the outer ear
+Abnormality of the ovary
+Abnormality of the palm
+Abnormality of the palmar creases
+Abnormality of the palpebral fissures
+Abnormality of the pancreas
+Abnormality of the pancreatic islet cells
+Abnormality of the paranasal sinuses
+Abnormality of the parathyroid gland
+Abnormality of the parathyroid morphology
+Abnormality of the parathyroid physiology
+Abnormality of the penis
+Abnormality of the periorbital region
+Abnormality of the peripheral nervous system
+Abnormality of the periventricular white matter
+Abnormality of the phalanges of the hallux
+Abnormality of the phalanges of the toes
+Abnormality of the pharynx
+Abnormality of the philtrum
+Abnormality of the pinna
+Abnormality of the pituitary gland
+Abnormality of the plantar skin of foot
+Abnormality of the pons
+Abnormality of the posterior cranial fossa
+Abnormality of the posterior hairline
+Abnormality of the posterior pituitary
+Abnormality of the pubic bone
+Abnormality of the pubic hair
+Abnormality of the pulmonary artery
+Abnormality of the pulmonary vasculature
+Abnormality of the pylorus
+Abnormality of the radial head
+Abnormality of the radius
+Abnormality of the rectum
+Abnormality of the respiratory system
+Abnormality of the rib cage
+Abnormality of the ribs
+Abnormality of the scalp hair
+Abnormality of the scapula
+Abnormality of the scrotum
+Abnormality of the sense of smell
+Abnormality of the septum pellucidum
+Abnormality of the seventh cranial nerve
+Abnormality of the shoulder
+Abnormality of the shoulder girdle musculature
+Abnormality of the skeletal system
+Abnormality of the skin
+Abnormality of the skull base
+Abnormality of the small intestine
+Abnormality of the spinal cord
+Abnormality of the spleen
+Abnormality of the sternum
+Abnormality of the supraorbital ridges
+Abnormality of the synovia
+Abnormality of the talus
+Abnormality of the tarsal bones
+Abnormality of the testis size
+Abnormality of the thoracic cavity
+Abnormality of the thoracic spine
+Abnormality of the thorax
+Abnormality of the thymus
+Abnormality of the thyroid gland
+Abnormality of the tongue
+Abnormality of the ulna
+Abnormality of the umbilical cord
+Abnormality of the upper arm
+Abnormality of the upper limb
+Abnormality of the upper respiratory tract
+Abnormality of the upper urinary tract
+Abnormality of the ureter
+Abnormality of the urethra
+Abnormality of the urinary system
+Abnormality of the urinary system physiology
+Abnormality of the uterus
+Abnormality of the uvula
+Abnormality of the vasculature
+Abnormality of the vasculature of the eye
+Abnormality of the vertebral column
+Abnormality of the vertebral endplates
+Abnormality of the voice
+Abnormality of the wing of the ilium
+Abnormality of the wrist
+Abnormality of the zygomatic bone
+Abnormality of thumb phalanx
+Abnormality of thyroid physiology
+Abnormality of tibia morphology
+Abnormality of toe
+Abnormality of upper limb epiphysis morphology
+Abnormality of upper limb joint
+Abnormality of upper lip
+Abnormality of upper lip vermillion
+Abnormality of urine calcium concentration
+Abnormality of urine catecholamine concentration
+Abnormality of urine glucose concentration
+Abnormality of urine homeostasis
+Abnormality of vision
+Abnormality of visual evoked potentials
+Abnormality of vitamin B metabolism
+Abnormality of vitamin metabolism
+Abnormality on pulmonary function testing
+Abnormally folded helix
+Abnormally large globe
+Abnormally lax or hyperextensible skin
+Absence of secondary sex characteristics
+Absent facial hair
+Absent fingernail
+Absent forearm bone
+Absent hair
+Absent radius
+Absent septum pellucidum
+Absent speech
+Absent toe
+Acanthosis nigricans
+Accelerated skeletal maturation
+Achilles tendon contracture
+Acidosis
+Aciduria
+Acne
+Action tremor
+Acute leukemia
+Acute myeloid leukemia
+Adducted thumb
+Adipose tissue loss
+Adrenal hyperplasia
+Adrenal hypoplasia
+Adrenal insufficiency
+Adrenal overactivity
+Adult onset
+Advanced eruption of teeth
+Aganglionic megacolon
+Age of death
+Agenesis of corpus callosum
+Aggressive behavior
+Agitation
+Agnosia
+Akinesia
+Alkalosis
+Almond-shaped palpebral fissure
+Alopecia
+Amaurosis fugax
+Ambiguous genitalia
+Amblyopia
+Amelogenesis imperfecta
+Amenorrhea
+Aminoaciduria
+Amyotrophic lateral sclerosis
+Anal atresia
+Anal stenosis
+Anemia
+Anemia due to reduced life span of red cells
+Anemia of inadequate production
+Anencephaly
+Angina pectoris
+Angiofibromas
+Aniridia
+Ankle clonus
+Ankle flexion contracture
+Anonychia
+Anophthalmia
+Anorectal anomaly
+Anorexia
+Anosmia
+Anterior hypopituitarism
+Anteriorly placed anus
+Anteverted nares
+Antinuclear antibody positivity
+Anxiety
+Aortic aneurysm
+Aortic dissection
+Aortic regurgitation
+Aortic root aneurysm
+Aortic valve stenosis
+Apathy
+Aphasia
+Aphthous ulcer
+Aplasia Hypoplasia affecting the anterior segment of the eye
+Aplasia Hypoplasia affecting the eye
+Aplasia Hypoplasia affecting the fundus
+Aplasia Hypoplasia affecting the uvea
+Aplasia Hypoplasia involving bones of the feet
+Aplasia Hypoplasia involving bones of the skull
+Aplasia Hypoplasia involving bones of the thorax
+Aplasia Hypoplasia involving the central nervous system
+Aplasia Hypoplasia involving the femoral head and neck
+Aplasia Hypoplasia involving the metacarpal bones
+Aplasia Hypoplasia involving the nose
+Aplasia Hypoplasia involving the pelvis
+Aplasia Hypoplasia involving the skeletal musculature
+Aplasia Hypoplasia involving the vertebral column
+Aplasia Hypoplasia of fingers
+Aplasia Hypoplasia of metatarsal bones
+Aplasia Hypoplasia of the 5th finger
+Aplasia Hypoplasia of the abdominal wall musculature
+Aplasia Hypoplasia of the brainstem
+Aplasia Hypoplasia of the breasts
+Aplasia Hypoplasia of the cerebellar vermis
+Aplasia Hypoplasia of the cerebellum
+Aplasia Hypoplasia of the cerebrum
+Aplasia Hypoplasia of the clavicles
+Aplasia Hypoplasia of the clitoris
+Aplasia Hypoplasia of the corpus callosum
+Aplasia Hypoplasia of the distal phalanges of the hand
+Aplasia Hypoplasia of the ear
+Aplasia Hypoplasia of the earlobes
+Aplasia Hypoplasia of the external ear
+Aplasia Hypoplasia of the eyebrow
+Aplasia Hypoplasia of the eyelid
+Aplasia Hypoplasia of the fibula
+Aplasia Hypoplasia of the hallux
+Aplasia Hypoplasia of the iris
+Aplasia Hypoplasia of the lungs
+Aplasia Hypoplasia of the macula
+Aplasia Hypoplasia of the mandible
+Aplasia Hypoplasia of the middle phalanges of the hand
+Aplasia Hypoplasia of the nails
+Aplasia Hypoplasia of the nipples
+Aplasia Hypoplasia of the optic nerve
+Aplasia Hypoplasia of the ovary
+Aplasia Hypoplasia of the pancreas
+Aplasia Hypoplasia of the patella
+Aplasia Hypoplasia of the phalanges of the 5th finger
+Aplasia Hypoplasia of the phalanges of the hand
+Aplasia Hypoplasia of the phalanges of the thumb
+Aplasia Hypoplasia of the phalanges of the toes
+Aplasia Hypoplasia of the radius
+Aplasia Hypoplasia of the retina
+Aplasia Hypoplasia of the ribs
+Aplasia Hypoplasia of the scapulae
+Aplasia Hypoplasia of the skin
+Aplasia Hypoplasia of the spleen
+Aplasia Hypoplasia of the testes
+Aplasia Hypoplasia of the thumb
+Aplasia Hypoplasia of the thymus
+Aplasia Hypoplasia of the tibia
+Aplasia Hypoplasia of the tongue
+Aplasia Hypoplasia of the ulna
+Aplasia Hypoplasia of the vertebrae
+Aplasia Hypoplasia of toe
+Aplasia cutis congenita
+Aplasia hypoplasia affecting bones of the axial skeleton
+Aplasia hypoplasia involving bones of the extremities
+Aplasia hypoplasia involving bones of the hand
+Aplasia hypoplasia involving bones of the lower limbs
+Aplasia hypoplasia involving bones of the upper limbs
+Aplasia hypoplasia involving forearm bones
+Aplasia hypoplasia involving the skeleton
+Aplasia hypoplasia of the extremities
+Aplasia hypoplasia of the femur
+Aplasia hypoplasia of the humerus
+Aplasia hypoplasia of the uterus
+Aplasia involving forearm bones
+Aplasia of the fingers
+Aplastic anemia
+Aplastic hypoplastic toenail
+Apnea
+Apraxia
+Arachnodactyly
+Areflexia
+Areflexia of lower limbs
+Arnold-Chiari malformation
+Arrhinencephaly
+Arrhythmia
+Arterial calcification
+Arterial stenosis
+Arterial thrombosis
+Arteriosclerosis
+Arteriovenous malformation
+Arthralgia
+Arthritis
+Arthrogryposis multiplex congenita
+Arthropathy
+Ascites
+Asplenia
+Asthma
+Astigmatism
+Asymmetric growth
+Asymmetry of iris pigmentation
+Ataxia
+Atelectasis
+Atherosclerosis
+Athetosis
+Atonic seizure
+Atresia of the external auditory canal
+Atrial arrhythmia
+Atrial fibrillation
+Atrial septal defect
+Atrioventricular block
+Atrioventricular canal defect
+Atrophic scars
+Atrophy Degeneration affecting the central nervous system
+Atrophy Degeneration affecting the cerebrum
+Atrophy Degeneration involving the corticospinal tracts
+Attention deficit hyperactivity disorder
+Attenuation of retinal blood vessels
+Atypical scarring of skin
+Autism
+Autistic behavior
+Autoimmune antibody positivity
+Autoimmune hemolytic anemia
+Autoimmune thrombocytopenia
+Autoimmunity
+Autosomal dominant inheritance
+Autosomal recessive inheritance
+Avascular necrosis
+Axial muscle weakness
+Azoospermia
+Azotemia
+Babinski sign
+Back pain
+Basal cell carcinoma
+Basal ganglia calcification
+Behavioral abnormality
+Benign neoplasm of the central nervous system
+Bicornuate uterus
+Bicuspid aortic valve
+Bifid scrotum
+Bifid uvula
+Bilateral ptosis
+Bilateral sensorineural hearing impairment
+Bilateral single transverse palmar creases
+Bilateral tonic-clonic seizure
+Biliary tract abnormality
+Bimanual synkinesia
+Biparietal narrowing
+Bipolar affective disorder
+Bladder carcinoma
+Bladder neoplasm
+Blepharitis
+Blepharophimosis
+Blepharospasm
+Blindness
+Bloody diarrhea
+Blue irides
+Blue sclerae
+Blurred vision
+Bone marrow hypocellularity
+Bone pain
+Bowel incontinence
+Bowing of the arm
+Bowing of the legs
+Bowing of the long bones
+Brachycephaly
+Brachydactyly
+Bradycardia
+Bradykinesia
+Brain atrophy
+Brain imaging abnormality
+Breast carcinoma
+Breast hypoplasia
+Brittle hair
+Broad-based gait
+Broad finger
+Broad foot
+Broad forehead
+Broad hallux
+Broad long bones
+Broad nasal tip
+Broad phalanges of the hand
+Broad phalanx
+Broad phalanx of the toes
+Broad thumb
+Broad toe
+Bronchiectasis
+Bronchitis
+Bruising susceptibility
+Bulbar palsy
+Bulbar signs
+Bulbous nose
+Bundle branch block
+CNS demyelination
+CNS hypomyelination
+Cachexia
+Cafe-au-lait spot
+Calf muscle hypertrophy
+Camptodactyly
+Camptodactyly of finger
+Capillary hemangioma
+Capillary malformation
+Cardiac arrest
+Cardiac conduction abnormality
+Cardiomegaly
+Cardiomyopathy
+Cardiovascular calcification
+Carious teeth
+Carpal synostosis
+Cataract
+Cavernous hemangioma
+Cellular immunodeficiency
+Cellulitis
+Central hypothyroidism
+Central nervous system cyst
+Central scotoma
+Centrally nucleated skeletal muscle fibers
+Cephalocele
+Cerebellar atrophy
+Cerebellar cyst
+Cerebellar hypoplasia
+Cerebellar malformation
+Cerebellar vermis atrophy
+Cerebellar vermis hypoplasia
+Cerebral atrophy
+Cerebral calcification
+Cerebral cortical atrophy
+Cerebral hemorrhage
+Cerebral hypomyelination
+Cerebral hypoplasia
+Cerebral inclusion bodies
+Cerebral ischemia
+Cerebral palsy
+Cerebral visual impairment
+Cerebral white matter atrophy
+Chest pain
+Childhood onset
+Choanal atresia
+Cholelithiasis
+Cholestasis
+Chorea
+Choreoathetosis
+Chorioretinal coloboma
+Chorioretinal degeneration
+Chronic bronchitis
+Chronic constipation
+Chronic diarrhea
+Chronic kidney disease
+Chronic otitis media
+Chronic sinusitis
+Cirrhosis
+Cleft lip
+Cleft palate
+Cleft soft palate
+Cleft upper lip
+Clinical course
+Clinodactyly
+Clinodactyly of the 2nd toe
+Clinodactyly of the 5th finger
+Clitoral hypertrophy
+Clitoral hypoplasia
+Clonic seizure
+Clonus
+Clubbing
+Clubbing of fingers
+Clumsiness
+Coarctation of aorta
+Coarse facial features
+Coarse hair
+Cognitive impairment
+Colitis
+Coloboma
+Colon cancer
+Color vision defect
+Coma
+Combined immunodeficiency
+Conductive hearing impairment
+Cone-shaped epiphyses of the phalanges of the hand
+Cone-shaped epiphysis
+Cone cone-rod dystrophy
+Confusion
+Congenital abnormal hair pattern
+Congenital contracture
+Congenital diaphragmatic hernia
+Congenital hepatic fibrosis
+Congenital hip dislocation
+Congenital ichthyosiform erythroderma
+Congenital malformation of the great arteries
+Congenital malformation of the left heart
+Congenital malformation of the right heart
+Congenital muscular dystrophy
+Congenital onset
+Congenital sensorineural hearing impairment
+Congestive heart failure
+Conical tooth
+Conjunctivitis
+Conotruncal defect
+Constipation
+Constitutional symptom
+Constriction of peripheral visual field
+Contractures involving the joints of the feet
+Contractures of the joints of the lower limbs
+Contractures of the joints of the upper limbs
+Convex nasal ridge
+Corneal dystrophy
+Corneal erosion
+Corneal opacity
+Coronal craniosynostosis
+Coronary artery atherosclerosis
+Cortical dysplasia
+Cough
+Coxa valga
+Coxa vara
+Cranial hyperostosis
+Cranial nerve compression
+Cranial nerve paralysis
+Craniofacial dystonia
+Craniofacial hyperostosis
+Craniosynostosis
+Cryptorchidism
+Cubitus valgus
+Cupped ear
+Curly hair
+Cutaneous photosensitivity
+Cutaneous syndactyly
+Cutis laxa
+Cutis marmorata
+Cyanosis
+Cystic hygroma
+Cystic liver disease
+Cytochrome C oxidase-negative muscle fibers
+Dandy-Walker malformation
+Death in infancy
+Decrease in T cell count
+Decreased absent ankle reflexes
+Decreased activity of mitochondrial complex I
+Decreased activity of mitochondrial respiratory chain
+Decreased activity of the pyruvate dehydrogenase complex
+Decreased adipose tissue
+Decreased body weight
+Decreased circulating IgA level
+Decreased circulating IgG level
+Decreased circulating androgen level
+Decreased circulating antibody level
+Decreased circulating cortisol level
+Decreased corneal thickness
+Decreased facial expression
+Decreased fertility
+Decreased fertility in females
+Decreased fertility in males
+Decreased fetal movement
+Decreased head circumference
+Decreased liver function
+Decreased motor nerve conduction velocity
+Decreased muscle mass
+Decreased nerve conduction velocity
+Decreased number of peripheral myelinated nerve fibers
+Decreased serum estradiol
+Decreased serum testosterone level
+Decreased skull ossification
+Decreased testicular size
+Deep philtrum
+Deeply set eye
+Dehydration
+Delayed ability to walk
+Delayed cranial suture closure
+Delayed eruption of teeth
+Delayed gross motor development
+Delayed myelination
+Delayed puberty
+Delayed skeletal maturation
+Delayed speech and language development
+Delusions
+Dementia
+Demyelinating peripheral neuropathy
+Dental crowding
+Dental malocclusion
+Depressed nasal bridge
+Depressed nasal ridge
+Depressivity
+Dermal atrophy
+Dermatological manifestations of systemic disorders
+Developmental cataract
+Developmental glaucoma
+Developmental regression
+Deviation of finger
+Deviation of the 2nd toe
+Deviation of the 5th finger
+Deviation of the hallux
+Deviation of the hand or of fingers of the hand
+Deviation of the thumb
+Deviation of toes
+Dextrocardia
+Diabetes insipidus
+Diabetes mellitus
+Dialeptic seizure
+Diarrhea
+Dicarboxylic aciduria
+Difficulty climbing stairs
+Difficulty running
+Difficulty walking
+Diffuse cerebral atrophy
+Diffuse white matter abnormalities
+Dilatation
+Dilatation of the cerebral artery
+Dilatation of the renal pelvis
+Dilated cardiomyopathy
+Dilated fourth ventricle
+Diminished motivation
+Diminished movement
+Diplopia
+Disinhibition
+Dislocated radial head
+Displacement of the urethral meatus
+Disproportionate short-limb short stature
+Disproportionate short-trunk short stature
+Disproportionate short stature
+Disproportionate tall stature
+Distal amyotrophy
+Distal lower limb amyotrophy
+Distal lower limb muscle weakness
+Distal muscle weakness
+Distal sensory impairment
+Distal upper limb amyotrophy
+Dolichocephaly
+Double outlet right ventricle
+Down-sloping shoulders
+Downslanted palpebral fissures
+Downturned corners of mouth
+Drooling
+Drowsiness
+Dry skin
+Duodenal atresia
+Duplication involving bones of the feet
+Duplication of bones involving the upper extremities
+Duplication of hand bones
+Duplication of phalanx of hand
+Duplication of thumb phalanx
+Dysarthria
+Dyschromatopsia
+Dysdiadochokinesis
+Dysgraphia
+Dyskinesia
+Dysmetria
+Dyspareunia
+Dysphagia
+Dysphasia
+Dysphonia
+Dyspnea
+Dystonia
+Dystrophic fingernails
+EEG abnormality
+EEG with abnormally slow frequencies
+EEG with focal epileptiform discharges
+EEG with generalized epileptiform discharges
+EEG with multifocal slow activity
+EEG with polyspike wave complexes
+EEG with spike-wave complexes
+EMG: decremental response of compound muscle action potential to repetitive nerve stimulation
+EMG: impaired neuromuscular transmission
+EMG: myopathic abnormalities
+EMG: neuropathic changes
+EMG abnormality
+Early onset of sexual maturation
+Easy fatigability
+Ecchymosis
+Echolalia
+Eclabion
+Ectodermal dysplasia
+Ectopia lentis
+Ectopic anus
+Ectopic calcification
+Ectopic kidney
+Ectopic pregnancy
+Ectrodactyly
+Ectropion
+Eczema
+Edema
+Elbow dislocation
+Elbow flexion contracture
+Elevated C-reactive protein level
+Elevated alkaline phosphatase
+Elevated circulating follicle stimulating hormone level
+Elevated circulating parathyroid hormone level
+Elevated erythrocyte sedimentation rate
+Elevated hepatic transaminase
+Elevated pulmonary artery pressure
+Elevated serum creatine kinase
+Elevated urinary catecholamines
+Embryonal neoplasm
+Embryonal renal neoplasm
+Emotional lability
+Emphysema
+Encephalitis
+Encephalocele
+Encephalopathy
+Enlarged kidney
+Enlarged thorax
+Eosinophilia
+Epicanthus
+Epidermal acanthosis
+Epidermal thickening
+Epileptic encephalopathy
+Epileptic spasm
+Epiphyseal dysplasia
+Epiphyseal stippling
+Episodic abdominal pain
+Episodic pain
+Episodic tachypnea
+Episodic vomiting
+Epistaxis
+Erectile dysfunction
+Erythema
+Erythroderma
+Esodeviation
+Esophageal atresia
+Esophageal stenosis
+Esophagitis
+Esotropia
+Everted lower lip vermilion
+Excessive daytime somnolence
+Excessive salivation
+Excessive wrinkled skin
+Exercise-induced myalgia
+Exercise intolerance
+Exertional dyspnea
+Exocrine pancreatic insufficiency
+Exodeviation
+Exostoses
+Exotropia
+External ear malformation
+External genital hypoplasia
+External ophthalmoplegia
+Eyelid coloboma
+Facial asymmetry
+Facial diplegia
+Facial edema
+Facial hypertrichosis
+Facial hypotonia
+Facial palsy
+Failure to thrive
+Failure to thrive in infancy
+Fasciculations
+Fat malabsorption
+Fatigable weakness
+Fatigable weakness of bulbar muscles
+Fatigable weakness of respiratory muscles
+Fatigable weakness of skeletal muscles
+Fatigable weakness of swallowing muscles
+Fatigue
+Febrile seizure (within the age range of 3 months to 6 years)
+Feeding difficulties
+Feeding difficulties in infancy
+Female reproductive system neoplasm
+Female sexual dysfunction
+Femoral bowing
+Fetal distress
+Fetal ultrasound soft marker
+Fever
+Fibroma
+Fibrous tissue neoplasm
+Fine hair
+Finger clinodactyly
+Finger syndactyly
+Flared metaphysis
+Flat face
+Flat occiput
+Flattened epiphysis
+Flexion contracture
+Flexion contracture of digit
+Flexion contracture of finger
+Focal-onset seizure
+Focal T2 hyperintense basal ganglia lesion
+Focal T2 hyperintense brainstem lesion
+Focal dystonia
+Focal impaired awareness seizure
+Focal motor seizure
+Focal segmental glomerulosclerosis
+Foot dorsiflexor weakness
+Foot polydactyly
+Forearm undergrowth
+Fragile nails
+Fragile skin
+Freckling
+Frequent falls
+Frontal bossing
+Frontotemporal dementia
+Full cheeks
+Functional abnormality of male internal genitalia
+Functional abnormality of the bladder
+Functional abnormality of the gastrointestinal tract
+Functional abnormality of the inner ear
+Functional abnormality of the middle ear
+Functional motor deficit
+Functional respiratory abnormality
+Furrowed tongue
+Fused cervical vertebrae
+Gait ataxia
+Gait disturbance
+Gait imbalance
+Gangrene
+Gastroesophageal reflux
+Gastrointestinal atresia
+Gastrointestinal carcinoma
+Gastrointestinal dysmotility
+Gastrointestinal hemorrhage
+Gastrointestinal inflammation
+Gastrointestinal obstruction
+Gastrostomy tube feeding in infancy
+Gaze-evoked nystagmus
+Generalized-onset motor seizure
+Generalized-onset seizure
+Generalized abnormality of skin
+Generalized amyotrophy
+Generalized hirsutism
+Generalized hyperpigmentation
+Generalized hypopigmentation
+Generalized hypopigmentation of hair
+Generalized hypotonia
+Generalized joint laxity
+Generalized muscle weakness
+Generalized myoclonic seizure
+Generalized non-motor (absence) seizure
+Generalized tonic seizure
+Genital neoplasm
+Genu valgum
+Genu varum
+Germ cell neoplasia
+Gingival bleeding
+Gingival overgrowth
+Glaucoma
+Glioma
+Gliosis
+Global brain atrophy
+Global developmental delay
+Glomerulonephritis
+Glomerulopathy
+Glomerulosclerosis
+Glossoptosis
+Glucose intolerance
+Glue ear
+Glycosuria
+Goiter
+Gonadal dysgenesis
+Gonadal neoplasm
+Gonosomal inheritance
+Gowers sign
+Gray matter heterotopia
+Growth abnormality
+Growth delay
+Growth hormone deficiency
+Growth hormone excess
+Gynecomastia
+Halitosis
+Hallucinations
+Hallux valgus
+Hamartoma
+Hamartoma of the eye
+Hamartoma of the orbital region
+Hammertoe
+Hand muscle atrophy
+Hand muscle weakness
+Hand polydactyly
+Hand tremor
+Headache
+Hearing abnormality
+Hearing impairment
+Heart block
+Hemangioma
+Hematological neoplasm
+Hematuria
+Hemianopia
+Hemiparesis
+Hemiplegia
+Hemiplegia hemiparesis
+Hemivertebrae
+Hemolytic anemia
+Hemoptysis
+Hemorrhage of the eye
+Hepatic failure
+Hepatic fibrosis
+Hepatic steatosis
+Hepatitis
+Hepatocellular carcinoma
+Hepatomegaly
+Hepatosplenomegaly
+Hereditary nonpolyposis colorectal carcinoma
+Hernia
+Hernia of the abdominal wall
+Heterochromia iridis
+Heterogeneous
+Heterotropia
+Hiatus hernia
+High anterior hairline
+High forehead
+High hypermetropia
+High myopia
+High narrow palate
+High palate
+High pitched voice
+Highly arched eyebrow
+Hip contracture
+Hip dislocation
+Hip dysplasia
+Hirsutism
+Hoarse voice
+Holoprosencephaly
+Horizontal nystagmus
+Horseshoe kidney
+Hydrocephalus
+Hydronephrosis
+Hydrops fetalis
+Hydroureter
+Hyperactive deep tendon reflexes
+Hyperactivity
+Hyperalaninemia
+Hyperammonemia
+Hyperbilirubinemia
+Hypercalcemia
+Hypercalciuria
+Hypercholesterolemia
+Hyperextensible skin
+Hyperglycemia
+Hypergonadotropic hypogonadism
+Hyperhidrosis
+Hyperinsulinemia
+Hyperinsulinemic hypoglycemia
+Hyperintensity of cerebral white matter on MRI
+Hyperkalemia
+Hyperkeratosis
+Hyperlipidemia
+Hyperlipoproteinemia
+Hyperlordosis
+Hypermelanotic macule
+Hypermetropia
+Hyperostosis
+Hyperparathyroidism
+Hyperphosphaturia
+Hyperpigmentation of the skin
+Hyperpituitarism
+Hyperreflexia
+Hypertelorism
+Hypertension
+Hypertension associated with pheochromocytoma
+Hypertensive retinopathy
+Hyperthyroidism
+Hypertonia
+Hypertrichosis
+Hypertriglyceridemia
+Hypertrophic cardiomyopathy
+Hyperuricemia
+Hyperventilation
+Hypoalbuminemia
+Hypocalcemia
+Hypochromic anemia
+Hypodontia
+Hypofibrinogenemia
+Hypoglycemia
+Hypogonadism
+Hypogonadotropic hypogonadism
+Hypohidrosis
+Hypohidrosis or hyperhidrosis
+Hypokalemia
+Hypokinesia
+Hypomimic face
+Hyponatremia
+Hypoparathyroidism
+Hypophosphatemia
+Hypopigmentation of hair
+Hypopigmentation of the skin
+Hypopigmented skin patches
+Hypopituitarism
+Hypoplasia of dental enamel
+Hypoplasia of penis
+Hypoplasia of teeth
+Hypoplasia of the brainstem
+Hypoplasia of the corpus callosum
+Hypoplasia of the iris
+Hypoplasia of the maxilla
+Hypoplasia of the odontoid process
+Hypoplasia of the ovary
+Hypoplasia of the pons
+Hypoplasia of the radius
+Hypoplasia of the ulna
+Hypoplasia of the uterus
+Hypoplastic facial bones
+Hypoplastic female external genitalia
+Hypoplastic fingernail
+Hypoplastic heart
+Hypoplastic ilia
+Hypoplastic labia majora
+Hypoplastic labia minora
+Hypoplastic left heart
+Hypoplastic male external genitalia
+Hypoplastic nipples
+Hypoplastic scapulae
+Hypoplastic toenails
+Hyporeflexia
+Hyposmia
+Hypospadias
+Hypotelorism
+Hypotension
+Hypothermia
+Hypothyroidism
+Hypoventilation
+Hypovolemia
+Hypsarrhythmia
+Ichthyosis
+Immotile cilia
+Immunodeficiency
+Immunologic hypersensitivity
+Impaired T cell function
+Impaired continence
+Impaired nasal mucociliary clearance
+Impaired pain sensation
+Impaired platelet aggregation
+Impaired proprioception
+Impaired smooth pursuit
+Impaired social interactions
+Impaired vibration sensation in the lower limbs
+Impaired vibratory sensation
+Impairment in personality functioning
+Impairment of activities of daily living
+Impotence
+Impulsivity
+Inability to walk
+Inappropriate behavior
+Incomplete penetrance
+Incoordination
+Increased CSF lactate
+Increased CSF protein
+Increased blood pressure
+Increased body weight
+Increased bone mineral density
+Increased circulating antibody level
+Increased circulating gonadotropin level
+Increased connective tissue
+Increased corneal curvature
+Increased head circumference
+Increased inflammatory response
+Increased intracranial pressure
+Increased muscle lipid content
+Increased number of teeth
+Increased purine level
+Increased serum ferritin
+Increased serum lactate
+Increased serum pyruvate
+Increased size of the clitoris
+Increased susceptibility to fractures
+Increased variability in muscle fiber diameter
+Increased waist to hip ratio
+Infantile muscular hypotonia
+Infantile onset
+Infantile spasms
+Infection-related seizure
+Infertility
+Inflammation of the large intestine
+Inflammatory abnormality of the eye
+Inflammatory abnormality of the skin
+Inguinal hernia
+Insomnia
+Insulin-resistant diabetes mellitus
+Insulin resistance
+Intellectual disability
+Intellectual disability mild
+Intellectual disability moderate
+Intellectual disability profound
+Intellectual disability progressive
+Intellectual disability severe
+Intention tremor
+Interictal EEG abnormality
+Interictal epileptiform activity
+Internal hemorrhage
+Interphalangeal joint contracture of finger
+Interstitial pulmonary abnormality
+Intestinal atresia
+Intestinal malrotation
+Intestinal obstruction
+Intestinal polyp
+Intestinal polyposis
+Intestinal pseudo-obstruction
+Intracranial cystic lesion
+Intracranial hemorrhage
+Intrauterine growth retardation
+Involuntary movements
+Iris coloboma
+Iris hypopigmentation
+Irregular hyperpigmentation
+Irregular menstruation
+Irregular vertebral endplates
+Irritability
+Jaundice
+Joint contracture of the hand
+Joint dislocation
+Joint hyperflexibility
+Joint hypermobility
+Joint laxity
+Joint stiffness
+Joint swelling
+Juvenile aseptic necrosis
+Juvenile onset
+Keratitis
+Keratoconjunctivitis
+Keratoconjunctivitis sicca
+Keratoconus
+Ketoacidosis
+Ketosis
+Kinetic tremor
+Knee flexion contracture
+Kyphoscoliosis
+Kyphosis
+Labial hypoplasia
+Lack of skin elasticity
+Lacrimation abnormality
+Lactic acidosis
+Language impairment
+Large basal ganglia
+Large face
+Large fontanelles
+Large for gestational age
+Large hands
+Large intestinal polyposis
+Laryngomalacia
+Laryngospasm
+Late onset
+Left ventricular dysfunction
+Left ventricular hypertrophy
+Lethargy
+Leukemia
+Leukocytosis
+Leukodystrophy
+Leukoencephalopathy
+Leukopenia
+Limb-girdle muscle atrophy
+Limb-girdle muscle weakness
+Limb ataxia
+Limb dystonia
+Limb hypertonia
+Limb joint contracture
+Limb muscle weakness
+Limb undergrowth
+Limitation of joint mobility
+Limited elbow extension
+Limited elbow movement
+Limited hip movement
+Lipid accumulation in hepatocytes
+Lipoatrophy
+Lipodystrophy
+Lipoma
+Lipomatous tumor
+Lissencephaly
+Localized skin lesion
+Long eyelashes
+Long face
+Long fingers
+Long nose
+Long palpebral fissure
+Long philtrum
+Long toe
+Loss of ability to walk
+Loss of speech
+Low-set ears
+Low-set posteriorly rotated ears
+Low anterior hairline
+Low posterior hairline
+Lower extremity joint dislocation
+Lower limb amyotrophy
+Lower limb hyperreflexia
+Lower limb muscle weakness
+Lower limb spasticity
+Lumbar hyperlordosis
+Lymphadenopathy
+Lymphedema
+Lymphoma
+Lymphopenia
+Macrocephaly
+Macrocytic anemia
+Macroglossia
+Macrotia
+Macular atrophy
+Macular degeneration
+Macular purpura
+Macule
+Malabsorption
+Malar flattening
+Male hypogonadism
+Male infertility
+Male pseudohermaphroditism
+Male reproductive system neoplasm
+Male sexual dysfunction
+Malignant gastrointestinal tract tumors
+Malignant hyperthermia
+Malignant neoplasm of the central nervous system
+Mandibular prognathia
+Mania
+Mask-like facies
+Maternal diabetes
+Meckel diverticulum
+Median cleft lip
+Megalencephaly
+Megalocornea
+Melanocytic nevus
+Melanoma
+Memory impairment
+Meningioma
+Meningitis
+Meningocele
+Menorrhagia
+Mental deterioration
+Mesomelia
+Metabolic acidosis
+Metaphyseal dysplasia
+Metaphyseal irregularity
+Metaphyseal widening
+Metatarsus adductus
+Microcephaly
+Microcornea
+Microcytic anemia
+Microdontia
+Micrognathia
+Micromelia
+Micropenis
+Microphthalmia
+Microretrognathia
+Microtia
+Midface retrusion
+Migraine
+Mild global developmental delay
+Mild hearing impairment
+Mild neurosensory hearing impairment
+Mildly elevated creatine kinase
+Milia
+Misalignment of teeth
+Missing ribs
+Mitochondrial inheritance
+Mitochondrial myopathy
+Mitral regurgitation
+Mitral valve prolapse
+Moderate hearing impairment
+Moderate sensorineural hearing impairment
+Molar tooth sign on MRI
+Morphological abnormality of the corticospinal tract
+Morphological abnormality of the gastrointestinal tract
+Morphological abnormality of the inner ear
+Morphological abnormality of the pyramidal tract
+Morphological central nervous system abnormality
+Mortality Aging
+Motor delay
+Motor neuron atrophy
+Motor seizure
+Mucosal telangiectasiae
+Multicystic kidney dysplasia
+Multifactorial inheritance
+Multifocal epileptiform discharges
+Multiple cafe-au-lait spots
+Multiple joint contractures
+Multiple lipomas
+Multiple renal cysts
+Muscle abnormality related to mitochondrial dysfunction
+Muscle fiber atrophy
+Muscle fiber cytoplasmatic inclusion bodies
+Muscle fiber inclusion bodies
+Muscle fibrillation
+Muscle hypertrophy of the lower extremities
+Muscle spasm
+Muscle stiffness
+Muscle weakness
+Muscular dystrophy
+Muscular hypotonia
+Muscular hypotonia of the trunk
+Mutism
+Myalgia
+Myelodysplasia
+Myocardial infarction
+Myoclonic seizure
+Myoclonus
+Myopathic facies
+Myopathy
+Myopia
+Myositis
+Myotonia
+Nail dysplasia
+Nail dystrophy
+Narrow chest
+Narrow face
+Narrow forehead
+Narrow mouth
+Narrow nasal bridge
+Narrow palate
+Narrow palpebral fissure
+Nasal polyposis
+Nasal speech
+Nasogastric tube feeding
+Nausea
+Nausea and vomiting
+Neck flexor weakness
+Neck muscle weakness
+Nemaline bodies
+Neonatal hypoglycemia
+Neonatal hypotonia
+Neonatal insulin-dependent diabetes mellitus
+Neonatal respiratory distress
+Neoplasm
+Neoplasm by anatomical site
+Neoplasm by histology
+Neoplasm of fatty tissue
+Neoplasm of striated muscle
+Neoplasm of the adrenal cortex
+Neoplasm of the adrenal gland
+Neoplasm of the anterior pituitary
+Neoplasm of the breast
+Neoplasm of the central nervous system
+Neoplasm of the colon
+Neoplasm of the endocrine system
+Neoplasm of the eye
+Neoplasm of the gastrointestinal tract
+Neoplasm of the genitourinary tract
+Neoplasm of the large intestine
+Neoplasm of the liver
+Neoplasm of the lung
+Neoplasm of the male external genitalia
+Neoplasm of the nervous system
+Neoplasm of the oral cavity
+Neoplasm of the pancreas
+Neoplasm of the peripheral nervous system
+Neoplasm of the pituitary gland
+Neoplasm of the rectum
+Neoplasm of the respiratory system
+Neoplasm of the skeletal system
+Neoplasm of the skin
+Neoplasm of the stomach
+Neoplasm of the thyroid gland
+Neoplasm of the tongue
+Nephritis
+Nephroblastoma
+Nephrocalcinosis
+Nephrolithiasis
+Nephronophthisis
+Nephropathy
+Nephrotic syndrome
+Nervous tissue neoplasm
+Neural tube defect
+Neuroblastic tumor
+Neuroblastoma
+Neurodegeneration
+Neurodevelopmental abnormality
+Neurodevelopmental delay
+Neuroectodermal neoplasm
+Neuroendocrine neoplasm
+Neuroepithelial neoplasm
+Neurological speech impairment
+Neuronal loss in central nervous system
+Neutropenia
+Nevus
+Nevus flammeus
+Non-Hodgkin lymphoma
+Non-midline cleft lip
+Non-obstructive azoospermia
+Nyctalopia
+Nystagmus
+Obesity
+Obsessive-compulsive behavior
+Obstructive sleep apnea
+Occipital encephalocele
+Ocular anterior segment dysgenesis
+Oculomotor apraxia
+Oligodactyly
+Oligodontia
+Oligohydramnios
+Oligomenorrhea
+Omphalocele
+Onion bulb formation
+Onset
+Opacification of the corneal stroma
+Open bite
+Open mouth
+Ophthalmoparesis
+Ophthalmoplegia
+Opisthotonus
+Optic atrophy
+Optic disc hypoplasia
+Optic disc pallor
+Optic nerve hypoplasia
+Optic neuropathy
+Oral cleft
+Oral leukoplakia
+Oral ulcer
+Organic aciduria
+Orthostatic hypotension
+Osteoarthritis
+Osteolysis
+Osteomyelitis
+Osteopenia
+Osteoporosis
+Otitis media
+Ovarian cyst
+Ovarian neoplasm
+Overfolded helix
+Overlapping fingers
+Overlapping toe
+Ovoid vertebral bodies
+Pace of progression
+Pachygyria
+Pain
+Pallor
+Palmar hyperkeratosis
+Palmoplantar hyperkeratosis
+Palmoplantar keratoderma
+Palpebral edema
+Palpitations
+Pancreatic cysts
+Pancreatitis
+Pancytopenia
+Panic attack
+Papilloma
+Papule
+Paraganglioma
+Paralysis
+Paraparesis
+Paraplegia
+Paraplegia paraparesis
+Paresthesia
+Parkinsonism
+Paroxysmal involuntary eye movements
+Partial agenesis of the corpus callosum
+Patchy hypopigmentation of hair
+Patellar dislocation
+Patent ductus arteriosus
+Patent foramen ovale
+Pathologic fracture
+Pectus carinatum
+Pectus excavatum
+Pediatric onset
+Pelvic girdle muscle weakness
+Pendular nystagmus
+Periauricular skin pits
+Pericardial effusion
+Pericarditis
+Periodontitis
+Periorbital edema
+Periorbital fullness
+Peripheral arterial stenosis
+Peripheral axonal degeneration
+Peripheral axonal neuropathy
+Peripheral demyelination
+Peripheral neuropathy
+Peripheral primitive neuroectodermal neoplasm
+Perseveration
+Personality changes
+Pes cavus
+Pes planus
+Pes valgus
+Petechiae
+Phenotypic variability
+Pheochromocytoma
+Photophobia
+Pigmentary retinopathy
+Pituitary adenoma
+Pituitary hypothyroidism
+Plagiocephaly
+Plantar hyperkeratosis
+Platyspondyly
+Pleural effusion
+Pneumonia
+Pneumothorax
+Poikilocytosis
+Pointed chin
+Polycystic kidney dysplasia
+Polycystic ovaries
+Polydactyly
+Polydipsia
+Polygenic inheritance
+Polyhydramnios
+Polymicrogyria
+Polyneuropathy
+Polyphagia
+Polyuria
+Poor eye contact
+Poor fine motor coordination
+Poor head control
+Poor motor coordination
+Poor speech
+Poor suck
+Portal hypertension
+Positional foot deformity
+Postaxial foot polydactyly
+Postaxial hand polydactyly
+Postaxial polydactyly
+Posterior embryotoxon
+Posteriorly rotated ears
+Postnatal growth retardation
+Postnatal microcephaly
+Postural instability
+Postural tremor
+Preauricular pit
+Preauricular skin tag
+Preaxial hand polydactyly
+Preaxial polydactyly
+Precocious puberty
+Premature birth
+Premature graying of hair
+Premature loss of teeth
+Premature ovarian insufficiency
+Premature skin wrinkling
+Prematurely aged appearance
+Prenatal maternal abnormality
+Prenatal movement abnormality
+Primary adrenal insufficiency
+Primary amenorrhea
+Primitive neuroectodermal tumor
+Profound global developmental delay
+Progressive
+Progressive cerebellar ataxia
+Progressive external ophthalmoplegia
+Progressive gait ataxia
+Progressive hearing impairment
+Progressive inability to walk
+Progressive microcephaly
+Progressive muscle weakness
+Progressive neurologic deterioration
+Progressive night blindness
+Progressive sensorineural hearing impairment
+Progressive spastic paraplegia
+Progressive visual loss
+Prolonged QT interval
+Prolonged QTc interval
+Prolonged bleeding time
+Prolonged neonatal jaundice
+Prolonged prothrombin time
+Prominent forehead
+Prominent metopic ridge
+Prominent nasal bridge
+Prominent nose
+Prominent occiput
+Prominent supraorbital ridges
+Proportionate short stature
+Proptosis
+Prostate cancer
+Prostate neoplasm
+Proteinuria
+Protruding ear
+Proximal amyotrophy
+Proximal muscle weakness
+Proximal muscle weakness in lower limbs
+Proximal muscle weakness in upper limbs
+Proximal placement of thumb
+Proximal tubulopathy
+Pruritus
+Pseudobulbar signs
+Psychogenic non-epileptic seizure
+Psychomotor retardation
+Psychosis
+Pterygium
+Ptosis
+Puberty and gonadal disorders
+Pulmonary arterial hypertension
+Pulmonary artery stenosis
+Pulmonary embolism
+Pulmonary fibrosis
+Pulmonary hypoplasia
+Pulmonary infiltrates
+Pulmonary obstruction
+Pulmonic stenosis
+Purpura
+Pyloric stenosis
+Radial deviation of finger
+Radial deviation of the hand or of fingers of the hand
+Radioulnar synostosis
+Ragged-red muscle fibers
+Rapidly progressive
+Recurrent aphthous stomatitis
+Recurrent bacterial infections
+Recurrent bronchitis
+Recurrent fever
+Recurrent fractures
+Recurrent fungal infections
+Recurrent infection of the gastrointestinal tract
+Recurrent infections
+Recurrent lower respiratory tract infections
+Recurrent otitis media
+Recurrent paroxysmal headache
+Recurrent pneumonia
+Recurrent respiratory infections
+Recurrent sinusitis
+Recurrent skin infections
+Recurrent upper respiratory tract infections
+Recurrent urinary tract infections
+Recurrent viral infections
+Red eye
+Reduced bone mineral density
+Reduced consciousness confusion
+Reduced number of teeth
+Reduced sperm motility
+Reduced subcutaneous adipose tissue
+Reduced tendon reflexes
+Reduced visual acuity
+Reduced vital capacity
+Redundant skin
+Regional abnormality of skin
+Relative macrocephaly
+Renal agenesis
+Renal cell carcinoma
+Renal cyst
+Renal dysplasia
+Renal hypoplasia
+Renal hypoplasia aplasia
+Renal insufficiency
+Renal neoplasm
+Renal tubular acidosis
+Renal tubular dysfunction
+Respiratory distress
+Respiratory failure
+Respiratory insufficiency
+Respiratory insufficiency due to muscle weakness
+Respiratory tract infection
+Resting tremor
+Restlessness
+Restrictive ventilatory defect
+Reticulocytosis
+Retinal atrophy
+Retinal coloboma
+Retinal degeneration
+Retinal detachment
+Retinal dysplasia
+Retinal dystrophy
+Retinal vascular tortuosity
+Retinopathy
+Retrognathia
+Rhabdomyolysis
+Rhinitis
+Rhizomelia
+Rib fusion
+Rickets
+Right bundle branch block
+Rigidity
+Rimmed vacuoles
+Rocker bottom foot
+Rod-cone dystrophy
+Round face
+Sacral dimple
+Sacrococcygeal pilonidal abnormality
+Sandal gap
+Sarcoma
+Scapular winging
+Scarring
+Schizophrenia
+Sclerocornea
+Scoliosis
+Scotoma
+Scrotal hypoplasia
+Secondary amenorrhea
+Seizure
+Seizure precipitated by febrile infection
+Selective tooth agenesis
+Self-injurious behavior
+Sensorimotor neuropathy
+Sensorineural hearing impairment
+Sensory axonal neuropathy
+Sensory impairment
+Sensory neuropathy
+Sepsis
+Serositis
+Severe global developmental delay
+Severe muscular hypotonia
+Severe postnatal growth retardation
+Severe short stature
+Severely reduced visual acuity
+Short 5th finger
+Short attention span
+Short chin
+Short clavicles
+Short digit
+Short distal phalanx of finger
+Short femoral neck
+Short finger
+Short foot
+Short hallux
+Short long bone
+Short metacarpal
+Short metatarsal
+Short middle phalanx of finger
+Short neck
+Short nose
+Short palm
+Short palpebral fissure
+Short phalanx of finger
+Short phalanx of the thumb
+Short philtrum
+Short ribs
+Short stature
+Short thorax
+Short thumb
+Short toe
+Shortening of all distal phalanges of the fingers
+Shoulder girdle muscle weakness
+Shuffling gait
+Sideroblastic anemia
+Simplified gyral pattern
+Single transverse palmar crease
+Sinusitis
+Situs inversus totalis
+Skeletal dysplasia
+Skeletal muscle atrophy
+Skeletal muscle hypertrophy
+Skin dimple
+Skin nodule
+Skin pit
+Skin rash
+Skin tags
+Skin ulcer
+Slanting of the palpebral fissure
+Sleep apnea
+Sleep disturbance
+Slender build
+Slender finger
+Slender long bone
+Sloping forehead
+Slow-growing hair
+Slow decrease in visual acuity
+Slow progression
+Slow saccadic eye movements
+Slurred speech
+Small face
+Small for gestational age
+Small hand
+Small nail
+Smooth philtrum
+Soft skin
+Soft tissue sarcoma
+Somatic mutation
+Sparse and thin eyebrow
+Sparse axillary hair
+Sparse body hair
+Sparse eyebrow
+Sparse eyelashes
+Sparse hair
+Sparse or absent eyelashes
+Sparse pubic hair
+Sparse scalp hair
+Spastic diplegia
+Spastic dysarthria
+Spastic gait
+Spastic paraparesis
+Spastic paraplegia
+Spastic tetraparesis
+Spastic tetraplegia
+Spasticity
+Specific learning disability
+Spina bifida
+Spina bifida occulta
+Spinal canal stenosis
+Spinal dysraphism
+Spinal rigidity
+Splenomegaly
+Split hand
+Spontaneous abortion
+Sporadic
+Sprengel anomaly
+Squamous cell carcinoma
+Stage 5 chronic kidney disease
+Status epilepticus
+Steatorrhea
+Steppage gait
+Stereotypy
+Stomatitis
+Storage in hepatocytes
+Strabismus
+Stridor
+Stroke
+Stroke-like episode
+Subarachnoid hemorrhage
+Subcapsular cataract
+Subcutaneous hemorrhage
+Subcutaneous nodule
+Submucous cleft hard palate
+Submucous cleft of soft and hard palate
+Sudden cardiac death
+Supernumerary nipple
+Supernumerary spleens
+Supranuclear gaze palsy
+Supraventricular arrhythmia
+Supraventricular tachycardia
+Symptomatic seizures
+Syncope
+Syndactyly
+Synophrys
+Synostosis involving bones of the feet
+Synostosis involving bones of the hand
+Synostosis involving bones of the lower limbs
+Synostosis involving bones of the upper limbs
+Synostosis of carpal bones
+Synostosis of carpals tarsals
+Synostosis of joints
+Systemic lupus erythematosus
+Tachycardia
+Tachypnea
+Talipes
+Talipes equinovarus
+Tall stature
+Tapered finger
+Tarsal synostosis
+Taurodontia
+Telangiectasia
+Telangiectasia of the skin
+Telecanthus
+Tented upper lip vermilion
+Testicular neoplasm
+Tetralogy of Fallot
+Tetraparesis
+Tetraplegia
+Tetraplegia tetraparesis
+Thick eyebrow
+Thick lower lip vermilion
+Thick vermilion border
+Thickened calvaria
+Thickened helices
+Thickened nuchal skin fold
+Thickened skin
+Thin eyebrow
+Thin ribs
+Thin skin
+Thin upper lip vermilion
+Thin vermilion border
+Thoracic aortic aneurysm
+Thoracic hypoplasia
+Thoracic kyphosis
+Thoracic scoliosis
+Thrombocytopenia
+Thrombocytosis
+Thyroid carcinoma
+Thyroiditis
+Tibial bowing
+Tinnitus
+Toe clinodactyly
+Toe syndactyly
+Toe walking
+Tonic seizure
+Torsade de pointes
+Torticollis
+Tracheal stenosis
+Tracheoesophageal fistula
+Tracheomalacia
+Transient ischemic attack
+Transitional cell carcinoma of the bladder
+Transposition of the great arteries
+Tremor
+Tremor by anatomical site
+Triangular face
+Triangular shaped phalanges of the hand
+Tricuspid regurgitation
+Trigonocephaly
+Triphalangeal thumb
+Truncal ataxia
+Truncal obesity
+Turricephaly
+Type 1 muscle fiber predominance
+Type II diabetes mellitus
+Type I diabetes mellitus
+Ulnar deviation of finger
+Ulnar deviation of the hand or of fingers of the hand
+Umbilical hernia
+Underdeveloped nasal alae
+Underdeveloped supraorbital ridges
+Unilateral renal agenesis
+Unsteady gait
+Unusual CNS infection
+Unusual fungal infection
+Unusual infection
+Unusual infection by anatomical site
+Upper extremity joint dislocation
+Upper limb amyotrophy
+Upper limb muscle weakness
+Upper limb undergrowth
+Upper motor neuron dysfunction
+Upslanted palpebral fissure
+Ureteral duplication
+Ureteral obstruction
+Urethral obstruction
+Urethral stenosis
+Urinary incontinence
+Urinary tract neoplasm
+Urinary urgency
+Urogenital fistula
+Urticaria
+Uterine neoplasm
+Uveitis
+Variable expressivity
+Varicose veins
+Vascular calcification
+Vascular neoplasm
+Vascular skin abnormality
+Vasculitis
+Venous insufficiency
+Venous thrombosis
+Ventricular arrhythmia
+Ventricular fibrillation
+Ventricular hypertrophy
+Ventricular preexcitation
+Ventricular septal defect
+Ventricular tachycardia
+Ventriculomegaly
+Vertebral clefting
+Vertebral fusion
+Vertebral hypoplasia
+Vertebral segmentation defect
+Vertigo
+Very long chain fatty acid accumulation
+Vesicoureteral reflux
+Vestibular dysfunction
+Visceromegaly
+Visual field defect
+Visual impairment
+Visual loss
+Vitiligo
+Vocal cord dysfunction
+Vocal cord paralysis
+Vomiting
+Waddling gait
+Weak cry
+Weakness due to upper motor neuron dysfunction
+Weakness of facial musculature
+Weakness of muscles of respiration
+Webbed neck
+Weight loss
+White lesion of the oral mucosa
+Wide anterior fontanel
+Wide intermamillary distance
+Wide mouth
+Wide nasal bridge
+Wide nose
+Widely spaced teeth
+Widened posterior fossa
+Widened subarachnoid space
+Wolff-Parkinson-White syndrome
+Wormian bones
+X-linked dominant inheritance
+X-linked inheritance
+X-linked recessive inheritance
+Xanthomatosis
+Xerostomia
+Yellow white lesions of the retina
+Zonular cataract
