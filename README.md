@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/AZMiddleton/pwmml/blob/master/Capture.PNG">
-</p>
-
 # Mantis-ML 2.0
 
 
