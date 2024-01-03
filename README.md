@@ -94,7 +94,7 @@ mantisml2 -d "diabetes mellitus" -o mantisml_diabetes_out -m sgcn
 
 
 
-#### `mantisml2` Output - check which folders are ouputted and highlight most important ones
+#### `mantisml2` Output
 `mantisml2` predictions for all genes and across all classifiers can be found at **`[output_dir]/Gene-Predictions`**. 
 <br>
 The `AUC_performance_by_Classifier.pdf` file under the same dir contains information about the AUC performance per classifier and thus informs about the best performing classifier.
