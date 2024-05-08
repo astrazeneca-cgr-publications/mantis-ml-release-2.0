@@ -19,7 +19,7 @@ Collectively, this has enabled the development of a fully streamlined, automated
 
 <br>
 
-|Mantis-ML v2.0 Publication |
+|Mantis-ML 2.0 Publication: |
 | :---- |
 |["Phenome-wide identification of therapeutic genetic targets, leveraging knowledge graphs, graph neural networks, and UK Biobank data"](https://www.science.org/doi/10.1126/sciadv.adj1424)|
 |Middleton L, Melas I, Vasavda C, Raies A, Rozemberczki B, Dhindsa RS, Dhindsa JS, Weido B, Wang Q, Harper AR, Edwards G, Petrovski S, Vitsios D <sup>:email:</sup>|
